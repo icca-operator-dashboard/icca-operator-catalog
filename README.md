@@ -1,1 +1,1 @@
-# data-explorer-catalog
+# parent repo for data-explorer

@@ -1,0 +1,42 @@
+{
+   "title":"Dataset Operator Dashboard",
+   "owners":{
+      "8J2FDdi":[
+         "all"
+      ]
+   },
+   "editors":{
+      
+   },
+   "viewers":{
+      "all":[
+         "all"
+      ]
+   },
+   "copyright":{
+      
+   },
+   "info":{
+      "headerTitle":"Dataset Operator Dashboard",
+      "title":"Welcome to Dataset Operator Dashboard",
+      "defaultVMDuration":"1",
+      "stacks":"_files/stacks.json",
+      "appLayout":"accordion",
+      "appTheme":"g90",
+      "footer":"__private/footer.md"
+   },
+   "documents":{
+   },
+   "attachments":[
+      {
+         "file":"_files/stacks.json",
+         "size":54351
+      },
+      {
+         "file":"_files/stacks_new.json",
+         "size":2589
+      }
+   ],
+   "version":"7",
+   "updated":"2020-09-28 09:17:36"
+}
