@@ -1,5 +1,5 @@
 {
-   "title":"Dataset Operator Dashboard",
+   "title":"Data Explorer Dashboard",
    "owners":{
       "8J2FDdi":[
          "all"
@@ -17,8 +17,8 @@
       
    },
    "info":{
-      "headerTitle":"Dataset Operator Dashboard",
-      "title":"Welcome to Dataset Operator Dashboard",
+      "headerTitle":"Data Explorer Dashboard",
+      "title":"Welcome to Data Explorer Dashboard",
       "defaultVMDuration":"1",
       "stacks":"_files/stacks.json",
       "appLayout":"accordion",
