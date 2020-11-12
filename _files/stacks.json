@@ -10,7 +10,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "fm-ad-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -25,7 +25,7 @@
     "description": "A global, gap-free, gridded, daily 1 km Sea Surface Temperature (SST) dataset created by merging multiple Level-2 satellite SST datasets. Those input datasets include the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the JAXA Advanced Microwave Scanning Radiometer 2 (AMSR-2) on GCOM-W1, the Moderate Resolution Imaging Spectroradiometers (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer, the Advanced Very High Resolution Radiometer (AVHRR) on several NOAA satellites, and in situ SST observations from the NOAA iQuam project. Data are available from 2002 to present in Zarr format. The original source of the MUR data is the NASA JPL Physical Oceanography DAAC.",
     "logo": "_images/dataset.png",
     "enabled": true,
-    "tag": "S3",
+    "tag": [ "S3" ],
     "language": [
       "Dataset"
     ],
@@ -52,7 +52,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "cgs-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -74,7 +74,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "ocm-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -96,7 +96,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "us-hiring-rates-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -117,7 +117,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "ccafs-climate-data-dataset",
     "type": "Dataset",
     "categories": [
@@ -139,7 +139,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "landsat-8-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -160,7 +160,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "noaa-ndfd-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -182,7 +182,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "noaa-ghe-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -204,7 +204,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+	"tag": [ "S3" ],
     "stack_id": "nasa-nex-dataset",
     "type": "dataset-s3",
     "categories": [
@@ -226,7 +226,7 @@
 	"category_label": [
       "Dataset"
     ],
-    "tag": "S3",
+    "tag": [ "S3" ],
     "stack_id": "a2d2-dataset",
     "type": "dataset-s3",
     "categories": [
