@@ -252,8 +252,8 @@
    "tag": [
     "CSV"
   ],
-  "git_url": "https://github.com/operator-playground-io/population-dataset.git",
-  "git_commit": "58d0d64a02a381f5ebdbb7efb93656956e171a90",
+  "git_url": "https://github.com/i-data-explorer/population-dataset.git",
+  "git_commit": "2f79073bd56183d95d5233e2e18e04a5f132042b",
   "installTime": "2 minutes"
 },
     
@@ -275,8 +275,8 @@
  "tag": [
     "CSV"
   ],
-  "git_url": "https://github.com/operator-playground-io/covid-dataset.git",
-  "git_commit": "917d1efae34d0ad66f4a10ba35d7f3e32b7d2987",
+  "git_url": "https://github.com/i-data-explorer/covid-dataset.git",
+  "git_commit": "b4078167d65492f99f0a0a0cfdf0839eb00a0326",
   "installTime": "2 minutes"
 }
 ]
