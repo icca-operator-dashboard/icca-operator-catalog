@@ -1,305 +1,326 @@
 [
-  {
-    "title": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)",
-    "description": "The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "fm-ad-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Health"
-    ],
-    "git_url": "https://github.com/i-data-explorer/FM-AD-Dataset.git",
-    "git_commit": "b694ee65518d61be480a1880257e37354aad5d24",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) Dataset",
-    "description": "A global, gap-free, gridded, daily 1 km Sea Surface Temperature (SST) dataset created by merging multiple Level-2 satellite SST datasets. Those input datasets include the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the JAXA Advanced Microwave Scanning Radiometer 2 (AMSR-2) on GCOM-W1, the Moderate Resolution Imaging Spectroradiometers (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer, the Advanced Very High Resolution Radiometer (AVHRR) on several NOAA satellites, and in situ SST observations from the NOAA iQuam project. Data are available from 2002 to present in Zarr format. The original source of the MUR data is the NASA JPL Physical Oceanography DAAC.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "tag": [ "S3" ],
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "stack_id": "mur-sst-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Environment"
-    ],
-    "git_url": "https://github.com/i-data-explorer/MUR-SST-dataset.git",
-    "git_commit": "90d4f85d34bbdee2619f04014f3b9152925f386e",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "COVID-19 Genome Sequence Dataset",
-    "description": "A centralized sequence repository for all strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI). Included are both the original sequences submitted by the principal investigator as well as SRA-processed sequences that require the SRA Toolkit for analysis.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "cgs-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Covid",
-      "Health"
-    ],
-    "git_url": "https://github.com/i-data-explorer/CGS-dataset.git",
-    "git_commit": "2ca52604922ab0981e83868cbf357aa313474c46",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "Open City Model (OCM) Dataset",
-    "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "ocm-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "General",
-      "Housing"
-    ],
-    "git_url": "https://github.com/i-data-explorer/OCM-dataset.git",
-    "git_commit": "4ea625d510b642b7e989fe5049b4f4165c7eb816",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "US Hiring Rates",
-    "description": "This dataset provides daily updates on the volume of US job listings",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "us-hiring-rates-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Employment"
-    ],
-    "git_url": "https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
-    "git_commit": "4e0851c9b00768ce17036aff5b3d1e802bd985dc",
-    "installTime": "3 minutes"
-  },
-  {
-    "title": "CCAFS-Climate Data",
-    "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "ccafs-climate-data-dataset",
-    "type": "Dataset",
-    "categories": [
-      "Climate",
-      "Agriculture"
-    ],
-    "git_url": "https://github.com/i-data-explorer/ccafs-climate-data.git",
-    "git_commit": "443cbe59c300d9e6e33399b114a1aa4f8a1182c8",
-    "installTime": "3 minutes"
-  },
-  {
-    "title": "Landsat 8 Dataset",
-    "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "landsat-8-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Environment"
-    ],
-    "git_url": "https://github.com/i-data-explorer/landsat-8-dataset.git",
-    "git_commit": "905c360a7823610418394afcc4de6ac0ff225f77",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "NOAA National Digital Forecast Database (NDFD) Dataset",
-    "description": "The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature). Forecasts prepared by NWS field offices working in collaboration with the National Centers for Environmental Prediction (NCEP) are combined in the NDFD to create a seamless mosaic of digital forecasts from which operational NWS products are generated.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "noaa-ndfd-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Environment",
-      "Geo Data"
-    ],
-    "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
-    "git_commit": "cc6e122a7ba507f64c9a968d1c75a0b5a9272a00",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "NOAA Global Hydro Estimator (GHE) Dataset",
-    "description": "Global Hydro-Estimator provides a global mosaic imagery of rainfall estimates from multi-geostationary satellites, which currently includes GOES-16, GOES-15, Meteosat-8, Meteosat-11 and Himawari-8. The GHE products include: Instantaneous rain rate, 1 hour, 3 hour, 6 hour, 24 hour and also multi-day rainfall accumulation.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "noaa-ghe-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Environment",
-      "Geo Data"
-    ],
-    "git_url": "https://github.com/i-data-explorer/noaa-ghe-dataset.git",
-    "git_commit": "49a01e428b91c7e17ffd4b512d199ed6dac3d592",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "NASA NEX Dataset",
-    "description": "A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-	"tag": [ "S3" ],
-    "stack_id": "nasa-nex-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "Geo Data",
-      "Environment"
-    ],
-    "git_url": "https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
-    "git_commit": "e0bdfc9df6e4dbe68efa61a8b94f700d6e4aa0ca",
-    "installTime": "2 minutes"
-  },
-  {
-    "title": "Audi Autonomous Driving Dataset(A2D2)",
-    "description": "An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "language": [
-      "Dataset"
-    ],
-	"category_label": [
-      "Dataset"
-    ],
-    "tag": [ "S3" ],
-    "stack_id": "a2d2-dataset",
-    "type": "dataset-s3",
-    "categories": [
-      "General"
-    ],
-    "git_url": "https://github.com/i-data-explorer/A2D2-Dataset.git",
-    "git_commit": "a8a79277db39b8a74da62f7fdc1cab3b3e4bd1b2",
-    "installTime": "2 minutes"
-  },
-{
-  "title": "Population Dataset",
-  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Dataset"
-  ],
-  "stack_id": "population_dataset",
-  "type": "dataset",
-  "categories": [
-    "Population"
-  ],
-   "tag": [
-    "CSV"
-  ],
-  "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-  "git_commit": "e879f2c77da5662a9da6e38810de94cd0adc282f",
-  "installTime": "2 minutes"
-},
-    
-{
-  "title": "Covid Dataset",
-  "description": "Dataset for covid data",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Dataset"
-  ],
-  "document": "data-logging-stack",
-  "stack_id": "covid_dataset",
-  "type": "dataset",
-  "categories": [
-    "Covid",
-    "Health"
-  ],
- "tag": [
-    "CSV"
-  ],
-  "git_url": "https://github.com/i-data-explorer/covid-dataset.git",
-  "git_commit": "caebbf691ad1661dc6fa454e84af883d89bbedf7",
-  "installTime": "2 minutes"
-},
-{
-  "title": "Cancer Dataset",
-  "description": "Biospecimen and clinical records related to Cancer.",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "language": [
-    "Dataset"
-  ],
-  "category_label": [
-    "Dataset"
-  ],
-  "tag": [
-    "Notebook"
-  ],
-  "stack_id": "cancer_dataset",
-  "type": "dataset",
-  "categories": [
-    "Health"
-  ],
-  "git_url": "https://github.com/i-data-explorer/cancer-dataset.git",
-  "git_commit": "ad7178cbdbcf745b4453abfa1f36930b202be590",
-  "installTime": "2 minutes",
-}
+   {
+      "title":"Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)",
+      "description":"The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"fm-ad-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Health"
+      ],
+      "git_url":"https://github.com/i-data-explorer/FM-AD-Dataset.git",
+      "git_commit":"b694ee65518d61be480a1880257e37354aad5d24",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) Dataset",
+      "description":"A global, gap-free, gridded, daily 1 km Sea Surface Temperature (SST) dataset created by merging multiple Level-2 satellite SST datasets. Those input datasets include the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the JAXA Advanced Microwave Scanning Radiometer 2 (AMSR-2) on GCOM-W1, the Moderate Resolution Imaging Spectroradiometers (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer, the Advanced Very High Resolution Radiometer (AVHRR) on several NOAA satellites, and in situ SST observations from the NOAA iQuam project. Data are available from 2002 to present in Zarr format. The original source of the MUR data is the NASA JPL Physical Oceanography DAAC.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "tag":[
+         "S3"
+      ],
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "stack_id":"mur-sst-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Environment"
+      ],
+      "git_url":"https://github.com/i-data-explorer/MUR-SST-dataset.git",
+      "git_commit":"90d4f85d34bbdee2619f04014f3b9152925f386e",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"COVID-19 Genome Sequence Dataset",
+      "description":"A centralized sequence repository for all strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI). Included are both the original sequences submitted by the principal investigator as well as SRA-processed sequences that require the SRA Toolkit for analysis.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"cgs-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Covid",
+         "Health"
+      ],
+      "git_url":"https://github.com/i-data-explorer/CGS-dataset.git",
+      "git_commit":"2ca52604922ab0981e83868cbf357aa313474c46",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Open City Model (OCM) Dataset",
+      "description":"Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"ocm-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "General",
+         "Housing"
+      ],
+      "git_url":"https://github.com/i-data-explorer/OCM-dataset.git",
+      "git_commit":"4ea625d510b642b7e989fe5049b4f4165c7eb816",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"US Hiring Rates",
+      "description":"This dataset provides daily updates on the volume of US job listings",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"us-hiring-rates-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Employment"
+      ],
+      "git_url":"https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
+      "git_commit":"4e0851c9b00768ce17036aff5b3d1e802bd985dc",
+      "installTime":"3 minutes"
+   },
+   {
+      "title":"CCAFS-Climate Data",
+      "description":"High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"ccafs-climate-data-dataset",
+      "type":"Dataset",
+      "categories":[
+         "Climate",
+         "Agriculture"
+      ],
+      "git_url":"https://github.com/i-data-explorer/ccafs-climate-data.git",
+      "git_commit":"443cbe59c300d9e6e33399b114a1aa4f8a1182c8",
+      "installTime":"3 minutes"
+   },
+   {
+      "title":"Landsat 8 Dataset",
+      "description":"An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"landsat-8-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Environment"
+      ],
+      "git_url":"https://github.com/i-data-explorer/landsat-8-dataset.git",
+      "git_commit":"905c360a7823610418394afcc4de6ac0ff225f77",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"NOAA National Digital Forecast Database (NDFD) Dataset",
+      "description":"The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature). Forecasts prepared by NWS field offices working in collaboration with the National Centers for Environmental Prediction (NCEP) are combined in the NDFD to create a seamless mosaic of digital forecasts from which operational NWS products are generated.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"noaa-ndfd-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Environment",
+         "Geo Data"
+      ],
+      "git_url":"https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
+      "git_commit":"cc6e122a7ba507f64c9a968d1c75a0b5a9272a00",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"NOAA Global Hydro Estimator (GHE) Dataset",
+      "description":"Global Hydro-Estimator provides a global mosaic imagery of rainfall estimates from multi-geostationary satellites, which currently includes GOES-16, GOES-15, Meteosat-8, Meteosat-11 and Himawari-8. The GHE products include: Instantaneous rain rate, 1 hour, 3 hour, 6 hour, 24 hour and also multi-day rainfall accumulation.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"noaa-ghe-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Environment",
+         "Geo Data"
+      ],
+      "git_url":"https://github.com/i-data-explorer/noaa-ghe-dataset.git",
+      "git_commit":"49a01e428b91c7e17ffd4b512d199ed6dac3d592",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"NASA NEX Dataset",
+      "description":"A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"nasa-nex-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "Geo Data",
+         "Environment"
+      ],
+      "git_url":"https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
+      "git_commit":"e0bdfc9df6e4dbe68efa61a8b94f700d6e4aa0ca",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Audi Autonomous Driving Dataset(A2D2)",
+      "description":"An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "S3"
+      ],
+      "stack_id":"a2d2-dataset",
+      "type":"dataset-s3",
+      "categories":[
+         "General"
+      ],
+      "git_url":"https://github.com/i-data-explorer/A2D2-Dataset.git",
+      "git_commit":"a8a79277db39b8a74da62f7fdc1cab3b3e4bd1b2",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Population Dataset",
+      "description":"Population figures for countries, regions (e.g. Asia) and the world.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "category_label":[
+         "Dataset"
+      ],
+      "stack_id":"population_dataset",
+      "type":"dataset",
+      "categories":[
+         "Population"
+      ],
+      "tag":[
+         "CSV"
+      ],
+      "git_url":"https://github.com/i-data-explorer/population-dataset.git",
+      "git_commit":"e879f2c77da5662a9da6e38810de94cd0adc282f",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Covid Dataset",
+      "description":"Dataset for covid data",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "category_label":[
+         "Dataset"
+      ],
+      "document":"data-logging-stack",
+      "stack_id":"covid_dataset",
+      "type":"dataset",
+      "categories":[
+         "Covid",
+         "Health"
+      ],
+      "tag":[
+         "CSV"
+      ],
+      "git_url":"https://github.com/i-data-explorer/covid-dataset.git",
+      "git_commit":"caebbf691ad1661dc6fa454e84af883d89bbedf7",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Cancer Dataset",
+      "description":"Biospecimen and clinical records related to Cancer.",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "language":[
+         "Dataset"
+      ],
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "Notebook"
+      ],
+      "stack_id":"cancer_dataset",
+      "type":"dataset",
+      "categories":[
+         "Health"
+      ],
+      "git_url":"https://github.com/i-data-explorer/cancer-dataset.git",
+      "git_commit":"ad7178cbdbcf745b4453abfa1f36930b202be590",
+      "installTime":"2 minutes"
+   }
 ]
