@@ -253,7 +253,7 @@
     "CSV"
   ],
   "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-  "git_commit": "2f79073bd56183d95d5233e2e18e04a5f132042b",
+  "git_commit": "e879f2c77da5662a9da6e38810de94cd0adc282f",
   "installTime": "2 minutes"
 },
     
@@ -276,7 +276,7 @@
     "CSV"
   ],
   "git_url": "https://github.com/i-data-explorer/covid-dataset.git",
-  "git_commit": "b4078167d65492f99f0a0a0cfdf0839eb00a0326",
+  "git_commit": "caebbf691ad1661dc6fa454e84af883d89bbedf7",
   "installTime": "2 minutes"
 },
 {
@@ -299,7 +299,7 @@
     "Health"
   ],
   "git_url": "https://github.com/i-data-explorer/cancer-dataset.git",
-  "git_commit": "",
+  "git_commit": "ad7178cbdbcf745b4453abfa1f36930b202be590",
   "installTime": "2 minutes",
 }
 ]
