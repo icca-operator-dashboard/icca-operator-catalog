@@ -146,7 +146,7 @@
       "Environment"
     ],
     "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git",
-    "git_commit": "c0dd954fad46a39187861ef3230d2c1485e44ace",
+    "git_commit": "e2dfa46c68188d87e85262e30f8c41b9beb6c1a7",
     "installTime": "2 minutes"
   },
   {
@@ -168,7 +168,7 @@
       "Geo Data"
     ],
     "git_url": "https://github.com/RitushreePurkait/noaa-ndfd-dataset.git",
-    "git_commit": "d7617a3ea646893a10e97973f6e5f880218e2edd",
+    "git_commit": "bd0f30fa5dacc1747563e52863508702c9f35c85",
     "installTime": "2 minutes"
   },
   {
@@ -190,7 +190,7 @@
       "Geo Data"
     ],
     "git_url": "https://github.com/RitushreePurkait/noaa-ghe-dataset.git",
-    "git_commit": "c6547c772ff66a3a57e25cbb78f357d14f8465ed",
+    "git_commit": "5e29897fb9d2b422453c8d1ef132874fa8bdd125",
     "installTime": "2 minutes"
   },
   {
@@ -212,7 +212,7 @@
       "Environment"
     ],
     "git_url": "https://github.com/RitushreePurkait/NASA-NEX-Dataset.git",
-    "git_commit": "4de844bbac96f3b64d97fe61e144f871d8024386",
+    "git_commit": "5ad3e5a877420de625f9b0c9acf6c64ba1a0ff48",
     "installTime": "2 minutes"
   },
   {
