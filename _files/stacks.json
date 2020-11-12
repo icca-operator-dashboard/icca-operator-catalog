@@ -38,7 +38,7 @@
       "Environment"
     ],
     "git_url": "https://github.com/RitushreePurkait/MUR-SST-dataset.git",
-    "git_commit": "dc104a42b6444d646f7b290f00df6e154a846e8c",
+    "git_commit": "5472673917adb47f33ba45afc5dcfd9188bd4814",
     "installTime": "2 minutes"
   },
   {
@@ -60,7 +60,7 @@
       "Health"
     ],
     "git_url": "https://github.com/RitushreePurkait/CGS-dataset.git",
-    "git_commit": "d3ef2f0ce2d956f9de7ffef2eaf52d22f354b9cd",
+    "git_commit": "33d8b7879eff58d6c9143899fd478ce9702d2215",
     "installTime": "2 minutes"
   },
   {
@@ -82,7 +82,7 @@
       "Housing"
     ],
     "git_url": "https://github.com/RitushreePurkait/OCM-dataset.git",
-    "git_commit": "cd7a83da546fa74581a601c13cae1c34c193cbe8",
+    "git_commit": "7126d272389f64b279bc5dc4b54354fd63372a70",
     "installTime": "2 minutes"
   },
   {
