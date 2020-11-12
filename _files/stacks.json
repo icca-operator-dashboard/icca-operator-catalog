@@ -278,5 +278,28 @@
   "git_url": "https://github.com/i-data-explorer/covid-dataset.git",
   "git_commit": "b4078167d65492f99f0a0a0cfdf0839eb00a0326",
   "installTime": "2 minutes"
+},
+{
+  "title": "Cancer Dataset",
+  "description": "Biospecimen and clinical records related to Cancer.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "language": [
+    "Dataset"
+  ],
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "Notebook"
+  ],
+  "stack_id": "cancer_dataset",
+  "type": "dataset",
+  "categories": [
+    "Health"
+  ],
+  "git_url": "https://github.com/i-data-explorer/cancer-dataset.git",
+  "git_commit": "",
+  "installTime": "2 minutes",
 }
 ]
