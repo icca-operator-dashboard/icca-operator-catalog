@@ -16,8 +16,8 @@
     "categories": [
       "Health"
     ],
-    "git_url": "https://github.com/RitushreePurkait/FM-AD-Dataset.git",
-    "git_commit": "66f572168d7adae27f11654f52f299d5786ee7b7",
+    "git_url": "https://github.com/i-data-explorer/FM-AD-Dataset.git",
+    "git_commit": "b694ee65518d61be480a1880257e37354aad5d24",
     "installTime": "2 minutes"
   },
   {
@@ -37,8 +37,8 @@
     "categories": [
       "Environment"
     ],
-    "git_url": "https://github.com/RitushreePurkait/MUR-SST-dataset.git",
-    "git_commit": "5472673917adb47f33ba45afc5dcfd9188bd4814",
+    "git_url": "https://github.com/i-data-explorer/MUR-SST-dataset.git",
+    "git_commit": "90d4f85d34bbdee2619f04014f3b9152925f386e",
     "installTime": "2 minutes"
   },
   {
@@ -59,8 +59,8 @@
       "Covid",
       "Health"
     ],
-    "git_url": "https://github.com/RitushreePurkait/CGS-dataset.git",
-    "git_commit": "33d8b7879eff58d6c9143899fd478ce9702d2215",
+    "git_url": "https://github.com/i-data-explorer/CGS-dataset.git",
+    "git_commit": "2ca52604922ab0981e83868cbf357aa313474c46",
     "installTime": "2 minutes"
   },
   {
@@ -81,8 +81,8 @@
       "General",
       "Housing"
     ],
-    "git_url": "https://github.com/RitushreePurkait/OCM-dataset.git",
-    "git_commit": "7126d272389f64b279bc5dc4b54354fd63372a70",
+    "git_url": "https://github.com/i-data-explorer/OCM-dataset.git",
+    "git_commit": "4ea625d510b642b7e989fe5049b4f4165c7eb816",
     "installTime": "2 minutes"
   },
   {
@@ -102,8 +102,8 @@
     "categories": [
       "Employment"
     ],
-    "git_url": "https://github.com/op-playground/us-hiring-rates-s3Dataset.git",
-    "git_commit": "68a46c549570730bab40b98052c673cef95a739c",
+    "git_url": "https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
+    "git_commit": "4e0851c9b00768ce17036aff5b3d1e802bd985dc",
     "installTime": "3 minutes"
   },
   {
@@ -124,8 +124,8 @@
       "Climate",
       "Agriculture"
     ],
-    "git_url": "https://github.com/deekshahegde86/ccafs-climate-data.git",
-    "git_commit": "79b8a23158fa501e45f3a103ace7e36b4e201787",
+    "git_url": "https://github.com/i-data-explorer/ccafs-climate-data.git",
+    "git_commit": "443cbe59c300d9e6e33399b114a1aa4f8a1182c8",
     "installTime": "3 minutes"
   },
   {
@@ -145,8 +145,8 @@
     "categories": [
       "Environment"
     ],
-    "git_url": "https://github.com/RitushreePurkait/landsat-8-dataset.git",
-    "git_commit": "e2dfa46c68188d87e85262e30f8c41b9beb6c1a7",
+    "git_url": "https://github.com/i-data-explorer/landsat-8-dataset.git",
+    "git_commit": "905c360a7823610418394afcc4de6ac0ff225f77",
     "installTime": "2 minutes"
   },
   {
@@ -167,8 +167,8 @@
       "Environment",
       "Geo Data"
     ],
-    "git_url": "https://github.com/RitushreePurkait/noaa-ndfd-dataset.git",
-    "git_commit": "bd0f30fa5dacc1747563e52863508702c9f35c85",
+    "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
+    "git_commit": "cc6e122a7ba507f64c9a968d1c75a0b5a9272a00",
     "installTime": "2 minutes"
   },
   {
@@ -189,8 +189,8 @@
       "Environment",
       "Geo Data"
     ],
-    "git_url": "https://github.com/RitushreePurkait/noaa-ghe-dataset.git",
-    "git_commit": "5e29897fb9d2b422453c8d1ef132874fa8bdd125",
+    "git_url": "https://github.com/i-data-explorer/noaa-ghe-dataset.git",
+    "git_commit": "49a01e428b91c7e17ffd4b512d199ed6dac3d592",
     "installTime": "2 minutes"
   },
   {
@@ -211,8 +211,8 @@
       "Geo Data",
       "Environment"
     ],
-    "git_url": "https://github.com/RitushreePurkait/NASA-NEX-Dataset.git",
-    "git_commit": "5ad3e5a877420de625f9b0c9acf6c64ba1a0ff48",
+    "git_url": "https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
+    "git_commit": "e0bdfc9df6e4dbe68efa61a8b94f700d6e4aa0ca",
     "installTime": "2 minutes"
   },
   {
@@ -232,8 +232,8 @@
     "categories": [
       "General"
     ],
-    "git_url": "https://github.com/RitushreePurkait/A2D2-Dataset.git",
-    "git_commit": "0e401867752a842862be38892b07e4187c3a9199",
+    "git_url": "https://github.com/i-data-explorer/A2D2-Dataset.git",
+    "git_commit": "a8a79277db39b8a74da62f7fdc1cab3b3e4bd1b2",
     "installTime": "2 minutes"
   }
 ]
