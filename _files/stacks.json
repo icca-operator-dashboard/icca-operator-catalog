@@ -301,7 +301,7 @@
       "installTime":"2 minutes"
    },
    {
-      "title":"Cancer Dataset",
+      "title":"Cancer Dataset Notebook",
       "description":"Biospecimen and clinical records related to Cancer.",
       "logo":"_images/dataset.png",
       "enabled":true,
@@ -318,7 +318,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/cancer-dataset.git",
-      "git_commit":"633c1bbf8262d0f4b7bb844b3ddd7a759eb06f71",
+      "git_commit":"89a8f178959f21ec0f506cab1a97b0baef8d83b9",
       "installTime":"2 minutes"
    }
 ]
