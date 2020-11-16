@@ -320,5 +320,21 @@
       "git_url":"https://github.com/i-data-explorer/cancer-dataset.git",
       "git_commit":"89a8f178959f21ec0f506cab1a97b0baef8d83b9",
       "installTime":"2 minutes"
-   }
+   },
+     
+{
+  "title": "Flower Classifications",
+  "description": "Dataset for flower classifications",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Dataset"],
+  "tag": ["CSV"],
+  "de_catalog_id": "flower_classification_dataset",
+  "categories": [
+    "Health"
+  ],
+  "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
+  "git_commit": "93b39aa6e8110c0016d15bf63548200214fa3845",
+  "installTime": "2 minutes",
+}
 ]
