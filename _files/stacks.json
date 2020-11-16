@@ -311,7 +311,9 @@
       "category_label":[
          "Notebook"
       ],
-      "tag": [],
+      "tag":[
+         
+      ],
       "stack_id":"cancer_dataset",
       "type":"dataset",
       "categories":[
@@ -321,34 +323,39 @@
       "git_commit":"89a8f178959f21ec0f506cab1a97b0baef8d83b9",
       "installTime":"2 minutes"
    },
-     
-{
-  "title": "Flower Classification Data",
-  "description": "Dataset for flower classifications",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": ["Dataset"],
-  "tag": ["CSV"],
-  "de_catalog_id": "flower_classification_dataset",
-  "categories": [
-    "Health"
-  ],
-  "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
-  "git_commit": "67f9f36573309acbf7ccc48f31b463004acab15f",
-  "installTime": "2 minutes",
-},
-{
-  "title": "Flower Classification Notebook",
-  "description": "Notebook for flower classifications",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": ["Notebook"],
-  "de_catalog_id": "flower_classification_notebook",
-  "categories": [
-    "Environment"
-  ],
-  "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-  "git_commit": "e999fdf0a0a05ac086bad243d7f2fc30ef28f50f",
-  "installTime": "2 minutes",
-}
+   {
+      "title":"Flower Classification Data",
+      "description":"Dataset for flower classifications",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "category_label":[
+         "Dataset"
+      ],
+      "tag":[
+         "CSV"
+      ],
+      "de_catalog_id":"flower_classification_dataset",
+      "categories":[
+         "Health"
+      ],
+      "git_url":"https://github.com/i-data-explorer/flower-classification-datatile.git",
+      "git_commit":"67f9f36573309acbf7ccc48f31b463004acab15f",
+      "installTime":"2 minutes"
+   },
+   {
+      "title":"Flower Classification Notebook",
+      "description":"Notebook for flower classifications",
+      "logo":"_images/dataset.png",
+      "enabled":true,
+      "category_label":[
+         "Notebook"
+      ],
+      "de_catalog_id":"flower_classification_notebook",
+      "categories":[
+         "Environment"
+      ],
+      "git_url":"https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
+      "git_commit":"e999fdf0a0a05ac086bad243d7f2fc30ef28f50f",
+      "installTime":"2 minutes"
+   }
 ]
