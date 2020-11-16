@@ -339,7 +339,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/flower-classification-datatile.git",
-      "git_commit":"3895de0a20ca47e33052740b06c8a5603f5cfb41",
+      "git_commit":"0a8c206f5b00ff20555ef54b17ffea0917c490e8",
       "installTime":"2 minutes"
    },
    {
@@ -356,7 +356,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-      "git_commit":"e999fdf0a0a05ac086bad243d7f2fc30ef28f50f",
+      "git_commit":"59917e52409d56bfa001727ad32de8fd4b822852",
       "installTime":"2 minutes"
    }
 ]
