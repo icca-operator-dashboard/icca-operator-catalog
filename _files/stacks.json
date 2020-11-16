@@ -323,7 +323,7 @@
    },
      
 {
-  "title": "Flower Classifications",
+  "title": "Flower Classification Data",
   "description": "Dataset for flower classifications",
   "logo": "_images/dataset.png",
   "enabled": true,
@@ -334,7 +334,21 @@
     "Health"
   ],
   "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
-  "git_commit": "93b39aa6e8110c0016d15bf63548200214fa3845",
+  "git_commit": "67f9f36573309acbf7ccc48f31b463004acab15f",
+  "installTime": "2 minutes",
+},
+{
+  "title": "Flower Classification Notebook",
+  "description": "Notebook for flower classifications",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "flower_classification_notebook",
+  "categories": [
+    "Environment"
+  ],
+  "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
+  "git_commit": "e999fdf0a0a05ac086bad243d7f2fc30ef28f50f",
   "installTime": "2 minutes",
 }
 ]
