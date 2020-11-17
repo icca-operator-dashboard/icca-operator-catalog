@@ -15,7 +15,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/FM-AD-Dataset.git",
-      "git_commit":"b694ee65518d61be480a1880257e37354aad5d24",
+      "git_commit":"0a748ccb0745ac03352d0c66cbfc15370576cc68",
       "installTime":"2 minutes"
    },
    {
@@ -35,7 +35,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/MUR-SST-dataset.git",
-      "git_commit":"90d4f85d34bbdee2619f04014f3b9152925f386e",
+      "git_commit":"cc85a41ef829977dd8c84928626c8265d41fe499",
       "installTime":"2 minutes"
    },
    {
@@ -55,7 +55,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/CGS-dataset.git",
-      "git_commit":"2ca52604922ab0981e83868cbf357aa313474c46",
+      "git_commit":"b37c529e9a579ff916a081665defe21784c62be1",
       "installTime":"2 minutes"
    },
    {
@@ -77,7 +77,7 @@
          "Housing"
       ],
       "git_url":"https://github.com/i-data-explorer/OCM-dataset.git",
-      "git_commit":"4ea625d510b642b7e989fe5049b4f4165c7eb816",
+      "git_commit":"893c8a4c540f94c6a8e1417ad00299dda97a8ad9",
       "installTime":"2 minutes"
    },
    {
@@ -98,7 +98,7 @@
          "Employment"
       ],
       "git_url":"https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
-      "git_commit":"4e0851c9b00768ce17036aff5b3d1e802bd985dc",
+      "git_commit":"0dbd46fc810123831ab08de1d2976bcbe1544721",
       "installTime":"3 minutes"
    },
    {
@@ -120,7 +120,7 @@
          "Agriculture"
       ],
       "git_url":"https://github.com/i-data-explorer/ccafs-climate-data.git",
-      "git_commit":"443cbe59c300d9e6e33399b114a1aa4f8a1182c8",
+      "git_commit":"1fa46625af51afa7aebdee9066a6fbf35bcf1fc2",
       "installTime":"3 minutes"
    },
    {
@@ -141,7 +141,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/landsat-8-dataset.git",
-      "git_commit":"905c360a7823610418394afcc4de6ac0ff225f77",
+      "git_commit":"b33dce7e94e399bddfccbca7efc7d56e0f17c55f",
       "installTime":"2 minutes"
    },
    {
@@ -163,7 +163,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
-      "git_commit":"cc6e122a7ba507f64c9a968d1c75a0b5a9272a00",
+      "git_commit":"8e76b5c8933a684a8a1ea45563158fedab07c57b",
       "installTime":"2 minutes"
    },
    {
@@ -185,7 +185,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ghe-dataset.git",
-      "git_commit":"49a01e428b91c7e17ffd4b512d199ed6dac3d592",
+      "git_commit":"cd6871871f7fb04cbb246eeaca6d807186ffc24c",
       "installTime":"2 minutes"
    },
    
@@ -207,7 +207,7 @@
          "General"
       ],
       "git_url":"https://github.com/i-data-explorer/A2D2-Dataset.git",
-      "git_commit":"a8a79277db39b8a74da62f7fdc1cab3b3e4bd1b2",
+      "git_commit":"809c23c420392f549612a1218b569375bf6d9a8e",
       "installTime":"2 minutes"
    },
    {
@@ -227,7 +227,7 @@
          "CSV"
       ],
       "git_url":"https://github.com/i-data-explorer/population-dataset.git",
-      "git_commit":"e879f2c77da5662a9da6e38810de94cd0adc282f",
+      "git_commit":"11d45faf358831594107b881fd95fcbfb8f31e31",
       "installTime":"2 minutes"
    },
    {
