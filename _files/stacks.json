@@ -163,7 +163,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
-      "git_commit":"8e76b5c8933a684a8a1ea45563158fedab07c57b",
+      "git_commit":"1e3a276b8d632078b5680941e199b2ebe4ccbb82",
       "installTime":"2 minutes"
    },
    {
@@ -185,7 +185,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ghe-dataset.git",
-      "git_commit":"cd6871871f7fb04cbb246eeaca6d807186ffc24c",
+      "git_commit":"7f654ca2b8266ec4b0f46c51a3abcabe8330b303",
       "installTime":"2 minutes"
    },
    
@@ -207,7 +207,7 @@
          "General"
       ],
       "git_url":"https://github.com/i-data-explorer/A2D2-Dataset.git",
-      "git_commit":"809c23c420392f549612a1218b569375bf6d9a8e",
+      "git_commit":"228d83d9c141aabf245dce0e5e9227e2403a215b",
       "installTime":"2 minutes"
    },
    {
