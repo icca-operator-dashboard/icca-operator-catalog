@@ -15,7 +15,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/FM-AD-Dataset.git",
-      "git_commit":"0a748ccb0745ac03352d0c66cbfc15370576cc68",
+      "git_commit":"784266605f7ce27495d1bde72a57df5739ebe041",
       "installTime":"2 minutes"
    },
    {
@@ -35,7 +35,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/MUR-SST-dataset.git",
-      "git_commit":"cc85a41ef829977dd8c84928626c8265d41fe499",
+      "git_commit":"005688333abd8552ae2dbae90f0cb750a949dfec",
       "installTime":"2 minutes"
    },
    {
@@ -55,7 +55,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/CGS-dataset.git",
-      "git_commit":"b37c529e9a579ff916a081665defe21784c62be1",
+      "git_commit":"db33b7ebdf52545f8aab5ed2820746a202805102",
       "installTime":"2 minutes"
    },
    {
@@ -77,7 +77,7 @@
          "Housing"
       ],
       "git_url":"https://github.com/i-data-explorer/OCM-dataset.git",
-      "git_commit":"893c8a4c540f94c6a8e1417ad00299dda97a8ad9",
+      "git_commit":"97e36ab8af3ee8d22e8bf7355c7f424e5f94068b",
       "installTime":"2 minutes"
    },
    {
