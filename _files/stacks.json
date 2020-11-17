@@ -396,5 +396,43 @@
     "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
     "git_commit": "ba1f59249679086ca2de9f6150832a7220db2d62",
     "installTime": "3 minutes"
+},
+   {
+    "title": "Supermarket Data Analysis and Visualization",
+    "description": "Notebook for Supermarket Data Analysis and Visualization",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Dataset"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
+    "categories": [
+        "Groceries"
+    ],
+    "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
+    "git_commit": "c13dda26d6115a53c1edcbde8ba96ba55d4b0b88",
+    "installTime": "3 minutes"
+},
+   {
+    "title": "Supermarket Data Analysis and Visualization",
+    "description": "Dataset for Supermarket Data Analysis and Visualization",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Dataset"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
+    "categories": [
+        "Groceries"
+    ],
+    "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
+    "git_commit": "53bb8aa8bfa08dc798363ff53a98507c999a5d5a",
+    "installTime": "3 minutes"
 }
 ]
