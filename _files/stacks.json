@@ -35,7 +35,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/MUR-SST-dataset.git",
-      "git_commit":"005688333abd8552ae2dbae90f0cb750a949dfec",
+      "git_commit":"73f04ef47645b3fabceb14113e2ab5e209204479",
       "installTime":"2 minutes"
    },
    {
@@ -55,7 +55,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/CGS-dataset.git",
-      "git_commit":"db33b7ebdf52545f8aab5ed2820746a202805102",
+      "git_commit":"69e7d7ca8c68c8a49315770bd30f778463eebe40",
       "installTime":"2 minutes"
    },
    {
@@ -77,7 +77,7 @@
          "Housing"
       ],
       "git_url":"https://github.com/i-data-explorer/OCM-dataset.git",
-      "git_commit":"97e36ab8af3ee8d22e8bf7355c7f424e5f94068b",
+      "git_commit":"b9a18010c7e7fd2961c006617da7b8fa199a146d",
       "installTime":"2 minutes"
    },
    {
@@ -98,7 +98,7 @@
          "Employment"
       ],
       "git_url":"https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
-      "git_commit":"1ac53d030f3caab96f08efb1b8f9c05a6246d75f",
+      "git_commit":"106b8a78e234d45e8161052c33d91bb1841e7e88",
       "installTime":"3 minutes"
    },
    {
@@ -120,7 +120,7 @@
          "Agriculture"
       ],
       "git_url":"https://github.com/i-data-explorer/ccafs-climate-data.git",
-      "git_commit":"27a959c102de46c986195d439683e0499c6aaa61",
+      "git_commit":"52569fa0731be39675b42e8ce03a0de181e0810b",
       "installTime":"3 minutes"
    },
    {
@@ -141,7 +141,7 @@
          "Environment"
       ],
       "git_url":"https://github.com/i-data-explorer/landsat-8-dataset.git",
-      "git_commit":"b33dce7e94e399bddfccbca7efc7d56e0f17c55f",
+      "git_commit":"81b32dd857e78673eb15a60bfc3fdae1045ba864",
       "installTime":"2 minutes"
    },
    {
@@ -163,7 +163,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
-      "git_commit":"1e3a276b8d632078b5680941e199b2ebe4ccbb82",
+      "git_commit":"99b1a2da25d8b3aaee14646fe4eaf9263cbde3cb",
       "installTime":"2 minutes"
    },
    {
@@ -185,29 +185,7 @@
          "Geo Data"
       ],
       "git_url":"https://github.com/i-data-explorer/noaa-ghe-dataset.git",
-      "git_commit":"7f654ca2b8266ec4b0f46c51a3abcabe8330b303",
-      "installTime":"2 minutes"
-   },
-   
-   {
-      "title":"Audi Autonomous Driving Dataset(A2D2)",
-      "description":"An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
-      "logo":"_images/dataset.png",
-      "enabled":true,
-      
-      "category_label":[
-         "Dataset"
-      ],
-      "tag":[
-         "S3"
-      ],
-      "de_catalog_id":"a2d2-dataset",
-      
-      "categories":[
-         "General"
-      ],
-      "git_url":"https://github.com/i-data-explorer/A2D2-Dataset.git",
-      "git_commit":"228d83d9c141aabf245dce0e5e9227e2403a215b",
+      "git_commit":"3c87c6d0a2b1ced71a7e412a451dc5148b30f1d0",
       "installTime":"2 minutes"
    },
    {
@@ -227,7 +205,7 @@
          "CSV"
       ],
       "git_url":"https://github.com/i-data-explorer/population-dataset.git",
-      "git_commit":"11d45faf358831594107b881fd95fcbfb8f31e31",
+      "git_commit":"c359ff3777fb43eac47f38d988af2bad3f473f62",
       "installTime":"2 minutes"
    },
    {
@@ -249,7 +227,7 @@
          "CSV"
       ],
       "git_url":"https://github.com/i-data-explorer/covid-dataset.git",
-      "git_commit":"5d968f2c5c931bdd5ca902b742c2b5d1133b0ebb",
+      "git_commit":"0c6ec24be74639df1b9f7a581f7a86288d66654c",
       "installTime":"2 minutes"
    },
    {
@@ -270,7 +248,7 @@
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/cancer-dataset.git",
-      "git_commit":"9626ad04165ae89e0d338b4f1992cb216d24de48",
+      "git_commit":"08dc633c98f7beee82d6238d4e43e94de5fb6e1c",
       "installTime":"2 minutes"
    },
    {
