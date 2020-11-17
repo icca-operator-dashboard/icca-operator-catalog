@@ -377,5 +377,24 @@
   "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
   "git_commit": "a9dfab6a0ea747859f4c4b4803c195fa45d0d595",
   "installTime": "2 minutes"
+},
+   {
+    "title": "Boston House Classification Evaluation Validation",
+    "description": "Notebook for Boston House Classification Evaluation Validation",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Notebook"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
+    "categories": [
+        "Real Estate"
+    ],
+    "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
+    "git_commit": "ba1f59249679086ca2de9f6150832a7220db2d62",
+    "installTime": "3 minutes"
 }
 ]
