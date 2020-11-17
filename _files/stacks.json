@@ -328,38 +328,5 @@
       "git_url":"https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
       "git_commit":"35274693649e6dbe73abd90b9b994df7ff16a24f",
       "installTime":"2 minutes"
-   },
-   {
-    "title": "Movie Recommendation Engine Notebook",
-    "description": "Notebook for Movie Recommendation Engine",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "category_label": [
-        "Dataset"
-    ],
-    "tag": [
-        "CSV"
-    ],
-    "de_catalog_id": "movie_recommendation_engine",
-    "categories": [
-        "Movies"
-    ],
-    "git_url": "",
-    "git_commit": "",
-    "installTime": "3 minutes"
-},
-   {
-    "title": "Movie Recommendation Engine Notebook",
-    "description": "Notebook for Movie Recommendation Engine",
-    "logo": "_images/dataset.png",
-    "enabled": true,
-    "category_label": ["Notebook"],
-    "de_catalog_id": "movie_recommendation_engine",
-    "categories": [
-      "Movies"
-    ],
-    "git_url": "",
-    "git_commit": "",
-    "installTime": "3 minutes"
-  }
+   }
 ]
