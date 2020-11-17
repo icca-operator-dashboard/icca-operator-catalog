@@ -398,7 +398,7 @@
     "installTime": "3 minutes"
 },
    {
-    "title": "Supermarket Data Analysis and Visualization",
+    "title": "Supermarket Data Analysis and Visualization Notebook",
     "description": "Notebook for Supermarket Data Analysis and Visualization",
     "logo": "_images/dataset.png",
     "enabled": true,
@@ -413,11 +413,11 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-    "git_commit": "f4c496d610ca0a5708ffba29f18acc195e1ff8b1",
+    "git_commit": "7ece798170834db4f226c233d6c6c72dae2d02b6",
     "installTime": "3 minutes"
 },
    {
-    "title": "Supermarket Data Analysis and Visualization",
+    "title": "Supermarket Data Analysis and Visualization Dataset",
     "description": "Dataset for Supermarket Data Analysis and Visualization",
     "logo": "_images/dataset.png",
     "enabled": true,
@@ -432,7 +432,7 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-    "git_commit": "b4eb3b1d246e295c34b8930bfb8e9021696ece54",
+    "git_commit": "a095ec07b6422a87b5c77460a8dbf6a51e8599ff",
     "installTime": "3 minutes"
 }
 ]
