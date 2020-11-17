@@ -413,7 +413,7 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-    "git_commit": "56a6da77572ea140d38ad2bb3e9d43013e09535e",
+    "git_commit": "f4c496d610ca0a5708ffba29f18acc195e1ff8b1",
     "installTime": "3 minutes"
 },
    {
@@ -432,7 +432,7 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-    "git_commit": "53bb8aa8bfa08dc798363ff53a98507c999a5d5a",
+    "git_commit": "b4eb3b1d246e295c34b8930bfb8e9021696ece54",
     "installTime": "3 minutes"
 }
 ]
