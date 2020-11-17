@@ -386,9 +386,7 @@
     "category_label": [
         "Notebook"
     ],
-    "tag": [
-        "CSV"
-    ],
+	"tag":[],
     "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
     "categories": [
         "Real Estate"
@@ -424,9 +422,7 @@
     "category_label": [
         "Notebook"
     ],
-    "tag": [
-        "CSV"
-    ],
+	"tag":[],
     "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
     "categories": [
         "Groceries"
