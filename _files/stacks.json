@@ -403,7 +403,7 @@
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": [
-        "Dataset"
+        "Notebook"
     ],
     "tag": [
         "CSV"
@@ -413,7 +413,7 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-    "git_commit": "c13dda26d6115a53c1edcbde8ba96ba55d4b0b88",
+    "git_commit": "56a6da77572ea140d38ad2bb3e9d43013e09535e",
     "installTime": "3 minutes"
 },
    {
