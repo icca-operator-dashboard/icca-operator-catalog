@@ -347,5 +347,19 @@
     "git_url": "",
     "git_commit": "",
     "installTime": "3 minutes"
-}
+},
+   {
+    "title": "Movie Recommendation Engine Notebook",
+    "description": "Notebook for Movie Recommendation Engine",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": ["Notebook"],
+    "de_catalog_id": "movie_recommendation_engine",
+    "categories": [
+      "Movies"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+  }
 ]
