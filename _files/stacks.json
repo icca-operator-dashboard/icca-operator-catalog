@@ -4,17 +4,13 @@
       "description":"The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"fm-ad-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"fm-ad-dataset",
       "categories":[
          "Health"
       ],
@@ -30,14 +26,11 @@
       "tag":[
          "S3"
       ],
-      "language":[
-         "Dataset"
-      ],
       "category_label":[
          "Dataset"
       ],
-      "stack_id":"mur-sst-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"mur-sst-dataset",
+ 
       "categories":[
          "Environment"
       ],
@@ -50,17 +43,13 @@
       "description":"A centralized sequence repository for all strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI). Included are both the original sequences submitted by the principal investigator as well as SRA-processed sequences that require the SRA Toolkit for analysis.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"cgs-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"cgs-dataset",
       "categories":[
          "Covid",
          "Health"
@@ -74,17 +63,15 @@
       "description":"Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+      
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"ocm-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"ocm-dataset",
+      
       "categories":[
          "General",
          "Housing"
@@ -98,17 +85,15 @@
       "description":"This dataset provides daily updates on the volume of US job listings",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+     
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"us-hiring-rates-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"us-hiring-rates-dataset",
+     
       "categories":[
          "Employment"
       ],
@@ -121,17 +106,15 @@
       "description":"High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+     
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"ccafs-climate-data-dataset",
-      "type":"Dataset",
+      "de_catalog_id":"ccafs-climate-data-dataset",
+     
       "categories":[
          "Climate",
          "Agriculture"
@@ -145,17 +128,15 @@
       "description":"An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+      
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"landsat-8-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"landsat-8-dataset",
+     
       "categories":[
          "Environment"
       ],
@@ -168,17 +149,15 @@
       "description":"The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature). Forecasts prepared by NWS field offices working in collaboration with the National Centers for Environmental Prediction (NCEP) are combined in the NDFD to create a seamless mosaic of digital forecasts from which operational NWS products are generated.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+     
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"noaa-ndfd-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"noaa-ndfd-dataset",
+      
       "categories":[
          "Environment",
          "Geo Data"
@@ -192,17 +171,15 @@
       "description":"Global Hydro-Estimator provides a global mosaic imagery of rainfall estimates from multi-geostationary satellites, which currently includes GOES-16, GOES-15, Meteosat-8, Meteosat-11 and Himawari-8. The GHE products include: Instantaneous rain rate, 1 hour, 3 hour, 6 hour, 24 hour and also multi-day rainfall accumulation.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+      
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"noaa-ghe-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"noaa-ghe-dataset",
+      
       "categories":[
          "Environment",
          "Geo Data"
@@ -217,17 +194,15 @@
       "description":"An open multi-sensor dataset for autonomous driving research. This dataset comprises semantically segmented images, semantic point clouds, and 3D bounding boxes. In addition, it contains unlabelled 360 degree camera images, lidar, and bus data for three sequences. We hope this dataset will further facilitate active research and development in AI, computer vision, and robotics for autonomous driving.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+      
       "category_label":[
          "Dataset"
       ],
       "tag":[
          "S3"
       ],
-      "stack_id":"a2d2-dataset",
-      "type":"dataset-s3",
+      "de_catalog_id":"a2d2-dataset",
+      
       "categories":[
          "General"
       ],
@@ -243,8 +218,8 @@
       "category_label":[
          "Dataset"
       ],
-      "stack_id":"population_dataset",
-      "type":"dataset",
+      "de_catalog_id":"population_dataset",
+
       "categories":[
          "Population"
       ],
@@ -264,8 +239,8 @@
          "Dataset"
       ],
       "document":"data-logging-stack",
-      "stack_id":"covid_dataset",
-      "type":"dataset",
+      "de_catalog_id":"covid_dataset",
+ 
       "categories":[
          "Covid",
          "Health"
@@ -282,17 +257,15 @@
       "description":"Biospecimen and clinical records related to Cancer.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      "language":[
-         "Dataset"
-      ],
+    
       "category_label":[
          "Notebook"
       ],
       "tag":[
          
       ],
-      "stack_id":"cancer_dataset",
-      "type":"dataset",
+      "de_catalog_id":"cancer_dataset",
+     
       "categories":[
          "Health"
       ],
