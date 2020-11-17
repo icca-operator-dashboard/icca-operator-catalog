@@ -362,5 +362,19 @@
     "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
     "git_commit": "34db7f4eb462cbcb79b4b9b08239caaeecf8c5fb",
     "installTime": "3 minutes"
-   }
+   },
+   {
+  "title": "Predict Wine Quality Notebook",
+  "description": "Notebook to Predict Wine Quality Notebook",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "predict_wine_quality_notebook",
+  "categories": [
+    "Food"
+  ],
+  "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
+  "git_commit": "a9dfab6a0ea747859f4c4b4803c195fa45d0d595",
+  "installTime": "2 minutes",
+}
 ]
