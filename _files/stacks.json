@@ -242,13 +242,13 @@
       "tag":[
          
       ],
-      "de_catalog_id":"cancer_dataset",
+      "de_catalog_id":"cancer_dataset_notebook",
      
       "categories":[
          "Health"
       ],
       "git_url":"https://github.com/i-data-explorer/cancer-dataset.git",
-      "git_commit":"08dc633c98f7beee82d6238d4e43e94de5fb6e1c",
+      "git_commit":"2ddd443814fd69f44ca1db5c84ed68f288981983",
       "installTime":"2 minutes"
    },
    {
