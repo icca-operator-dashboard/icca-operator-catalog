@@ -295,7 +295,7 @@
     "categories": [
       "Movies"
     ],
-    "tag":[],
+    "tag":["movie_recommendation_engine_dataset"],
     "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
     "git_commit": "3d3bb1b85250aea6e13528aab2a3ed2505cbd234",
     "installTime": "3 minutes"
