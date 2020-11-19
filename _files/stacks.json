@@ -348,7 +348,7 @@
         "Real Estate"
     ],
     "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-    "git_commit": "8c5f51022008e1872924b7df9929c9e998619921",
+    "git_commit": "f9e92ddd6e2970ed16a63881c4e0b603b10c4fdc",
     "installTime": "3 minutes"
 },
    {
@@ -384,7 +384,7 @@
         "Groceries"
     ],
     "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-    "git_commit": "d7687e6ec1fd4bfe6b0fa39707de38887abb1231",
+    "git_commit": "b564aadd9ba47d7d3acab1be2712de4f3443d760",
     "installTime": "3 minutes"
 },
    {
@@ -420,7 +420,7 @@
         "Covid"
     ],
     "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
-    "git_commit": "b0856c2d5524ffc67f61b265ce82a35fe6524fa9",
+    "git_commit": "abae4540ffaa5b3ad6f39f0402159b5646f8a468",
     "installTime": "3 minutes"
 },
    {
