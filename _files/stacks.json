@@ -335,25 +335,25 @@
   "installTime": "2 minutes"
 },
    {
-    "title": "Boston House Classification Evaluation Validation Notebook",
-    "description": "Notebook for Boston House Classification Evaluation Validation",
+    "title": "Boston House Prediction Evaluation Validation Notebook",
+    "description": "Notebook for Boston House Prediction Evaluation Validation",
     "logo": "_images/notebook.png",
     "enabled": true,
     "category_label": [
         "Notebook"
     ],
 	"tag":[],
-    "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
+    "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
     "categories": [
         "Real Estate"
     ],
     "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-    "git_commit": "f9e92ddd6e2970ed16a63881c4e0b603b10c4fdc",
+    "git_commit": "f4c4bbf1bf205ebe51475fc56f48f68d3353f81d",
     "installTime": "3 minutes"
 },
    {
-    "title": "Boston House Classification Evaluation Validation Dataset",
-    "description": "Dataset for Boston House Classification Evaluation Validation",
+    "title": "Boston House Prediction Evaluation Validation Dataset",
+    "description": "Dataset for Boston House Prediction Evaluation Validation",
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": [
@@ -362,7 +362,7 @@
     "tag": [
         "CSV"
     ],
-    "de_catalog_id": "boston_house_classification_evaluation_validation_dataset",
+    "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
     "categories": [
         "Real Estate"
     ],
