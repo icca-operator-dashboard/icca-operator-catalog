@@ -211,7 +211,7 @@
    {
       "title":"Cancer Dataset Notebook",
       "description":"Biospecimen and clinical records related to Cancer.",
-      "logo":"_images/dataset.png",
+      "logo":"_images/notebook.png",
       "enabled":true,
     
       "category_label":[
@@ -251,7 +251,7 @@
    {
       "title":"Flower Classification Notebook",
       "description":"Notebook for flower classifications",
-      "logo":"_images/dataset.png",
+      "logo":"_images/notebook.png",
       "enabled":true,
       "category_label":[
          "Notebook"
@@ -288,7 +288,7 @@
    {
     "title": "Movie Recommendation Engine Notebook",
     "description": "Notebook for Movie Recommendation Engine",
-    "logo": "_images/dataset.png",
+    "logo": "_images/notebook.png",
     "enabled": true,
     "category_label": ["Notebook"],
     "de_catalog_id": "movie_recommendation_engine_notebook",
@@ -322,7 +322,7 @@
    {
   "title": "Predict Wine Quality Notebook",
   "description": "Notebook to Predict Wine Quality Notebook",
-  "logo": "_images/dataset.png",
+  "logo": "_images/notebook.png",
   "enabled": true,
   "category_label": ["Notebook"],
   "de_catalog_id": "predict_wine_quality_notebook",
@@ -337,7 +337,7 @@
    {
     "title": "Boston House Classification Evaluation Validation Notebook",
     "description": "Notebook for Boston House Classification Evaluation Validation",
-    "logo": "_images/dataset.png",
+    "logo": "_images/notebook.png",
     "enabled": true,
     "category_label": [
         "Notebook"
@@ -373,7 +373,7 @@
    {
     "title": "Supermarket Data Analysis and Visualization Notebook",
     "description": "Notebook for Supermarket Data Analysis and Visualization",
-    "logo": "_images/dataset.png",
+    "logo": "_images/notebook.png",
     "enabled": true,
     "category_label": [
         "Notebook"
@@ -409,7 +409,7 @@
    {
     "title": "Covid 2019 Data Analysis and Visualization Notebook",
     "description": "Notebook for Covid 2019 Data Analysis and Visualization",
-    "logo": "_images/dataset.png",
+    "logo": "_images/notebook.png",
     "enabled": true,
     "category_label": [
         "Notebook"
