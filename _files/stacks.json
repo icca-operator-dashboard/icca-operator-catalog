@@ -334,6 +334,21 @@
   "git_commit": "57c733c2177dab95cfd93eba6a88069fbb89d6c9",
   "installTime": "2 minutes"
 },
+{
+  "title": "IPython Notebook Collection",
+  "description": "A collection of IPython notebooks covering various topics",
+  "logo": "_images/notebook.png",
+  "enabled": true,
+  "category_label": ["Notebook"],
+  "de_catalog_id": "ipython_notebook_collection",
+  "categories": [
+    "General"
+  ],
+  "tag":[],
+  "git_url": "https://github.com/jdwittenauer/ipython-notebooks.git",
+  "git_commit": "44641e20d6c30c073cde849626a51248632d1381",
+  "installTime": "5 minutes"
+},
    {
     "title": "Boston House Prediction Evaluation Validation Notebook",
     "description": "Notebook for Boston House Prediction Evaluation Validation",
