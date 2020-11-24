@@ -342,8 +342,8 @@
   "category_label": ["Notebook"],
   "de_catalog_id": "ipython_notebook_collection",
   "categories": [
-    "Machine Learning",
-    "Education"
+    "Education",
+    "Machine Learning"
   ],
   "tag":[],
   "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
@@ -358,8 +358,8 @@
   "category_label": ["Notebook"],
   "de_catalog_id": "python_machine_learning_notebook_collection",
   "categories": [
-    "Machine Learning",
-    "Education"
+    "Education",
+    "Machine Learning"
   ],
   "tag":[],
   "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
