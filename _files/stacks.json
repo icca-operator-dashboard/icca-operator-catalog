@@ -447,12 +447,12 @@
         "Notebook"
     ],
     "tag":[],
-    "de_catalog_id": "basic_python_handson_notebook",
+    "de_catalog_id": "basic_python_hands_on_notebook",
     "categories": [
         "Education"
     ],
     "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
-    "git_commit": "f13ac818ad0dfdf273fde36c1ce9d06602f2986f",
+    "git_commit": "fe350aeafc834722495eaa21070facd636351c2d",
     "installTime": "2 minutes"
 },
 {
