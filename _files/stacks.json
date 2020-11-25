@@ -439,6 +439,23 @@
     "installTime": "3 minutes"
 },
    {
+    "title": "Basic Python Hands-on Notebook",
+    "description": "Notebook for Basic Python Hands-on Learning",
+    "logo": "_images/notebook.png",
+    "enabled": true,
+    "category_label": [
+        "Notebook"
+    ],
+    "tag":[],
+    "de_catalog_id": "basic_python_handson_notebook",
+    "categories": [
+        "Education"
+    ],
+    "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
+    "git_commit": "e12af4d3821954f543231b6e7b95dcf7301711fb",
+    "installTime": "2 minutes"
+},
+{
     "title": "Covid 2019 Data Analysis and Visualization Notebook",
     "description": "Notebook for Covid 2019 Data Analysis and Visualization",
     "logo": "_images/notebook.png",
