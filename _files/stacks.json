@@ -14,6 +14,9 @@
       "categories":[
          "Health"
       ],
+      "buckets": [
+    	"gdc-fm-ad-phs001179-2-open"
+       ],
       "git_url":"https://github.com/i-data-explorer/FM-AD-Dataset.git",
       "git_commit":"db4edac62116046f43fa033b65b999bf543baf4c",
       "installTime":"2 minutes"
@@ -30,7 +33,10 @@
          "Dataset"
       ],
       "de_catalog_id":"mur-sst-dataset",
- 
+      "buckets": [
+        "mur-sst:/zarr",
+        "mur-sst:/zarr-v1"
+      ],
       "categories":[
          "Environment"
       ],
@@ -54,6 +60,10 @@
          "Covid",
          "Health"
       ],
+      "buckets": [
+        "sra-pub-sars-cov2",
+        "sra-pub-sars-cov2-metadata-us-east-1"
+       ],
       "git_url":"https://github.com/i-data-explorer/CGS-dataset.git",
       "git_commit":"69e7d7ca8c68c8a49315770bd30f778463eebe40",
       "installTime":"2 minutes"
@@ -76,6 +86,9 @@
          "General",
          "Housing"
       ],
+	   "buckets": [
+    "opencitymodel"
+  ],
       "git_url":"https://github.com/i-data-explorer/OCM-dataset.git",
       "git_commit":"b9a18010c7e7fd2961c006617da7b8fa199a146d",
       "installTime":"2 minutes"
@@ -93,7 +106,7 @@
          "S3"
       ],
       "de_catalog_id":"us-hiring-rates-dataset",
-     
+     "buckets": [ "greenwichhr-covidjobimpacts" ],
       "categories":[
          "Employment"
       ],
@@ -114,7 +127,7 @@
          "S3"
       ],
       "de_catalog_id":"ccafs-climate-data-dataset",
-     
+     "buckets": [ "cgiardata" ],
       "categories":[
          "Climate",
          "Agriculture"
@@ -128,7 +141,10 @@
       "description":"An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
       "logo":"_images/dataset.png",
       "enabled":true,
-      
+      "buckets": [
+    "landsat-pds",   
+    "landsat-pds-inventory"
+  ],
       "category_label":[
          "Dataset"
       ],
@@ -157,7 +173,9 @@
          "S3"
       ],
       "de_catalog_id":"noaa-ndfd-dataset",
-      
+      "buckets": [
+    "noaa-ndfd-pds"
+  ],
       "categories":[
          "Environment",
          "Geo Data"
@@ -179,7 +197,9 @@
          "S3"
       ],
       "de_catalog_id":"noaa-ghe-dataset",
-      
+      "buckets": [
+    "noaa-ghe-pds"
+  ],
       "categories":[
          "Environment",
          "Geo Data"
@@ -276,6 +296,13 @@
       "tag":[
          "S3"
       ],
+	   "buckets": [    
+    "nasanex:/NEX-DCP30",
+    "nasanex:/NEX-GDDP",
+    "nasanex:/LOCA",
+    "nasanex:/MODIS",
+    "nasanex:/Landsat"
+  ],
       "de_catalog_id":"nasa-nex-dataset",
       "categories":[
          "Geo Data",
