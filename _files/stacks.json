@@ -530,8 +530,8 @@
     "CSV"
   ],
   "de_catalog_id": "Contribution_UI - Dataset(CSV)_dataset_1606514296763",
-  "git_url": "",
-  "git_commit": "",
+  "git_url": "https://github.com/saeelparsekar/test-dataset-csv.git",
+  "git_commit": "32c345156756ed0d91f35344a8116c13e5de3ca9",
   "installTime": "2"
 }
 ]
