@@ -532,7 +532,7 @@
 	"categories":	["Airport", "Communication", "Covid"],
   "de_catalog_id": "Contribution_UI - Dataset(CSV)_dataset_1606514296763",
   "git_url": "https://github.com/saeelparsekar/test-dataset-csv.git",
-  "git_commit": "fe9629f6ccfd36afb9d90433ab78d5c67ad74173",
+  "git_commit": "42e5d146f1dca81d996a5e772807a70031d34fc0",
   "installTime": "2"
 }
 ]
