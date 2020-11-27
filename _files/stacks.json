@@ -517,5 +517,21 @@
     "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
     "git_commit": "8db86c6e560c6e15759bb8f71e2a0a61ad34456a",
     "installTime": "3 minutes"
+},
+{
+  "title": "Basic Python Hands-on Notebook-Demo",
+  "description": "Notebook for Basic Python Hands-on Learning",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "tag": [
+    ""
+  ],
+  "de_catalog_id": "Basic_Python Hands-on Notebook-Demo_notebook_1606458941813",
+  "git_url": "https://github.com/fvales/Basic-Python-Notebook-Demo.git",
+  "git_commit": "dbcc51daa481d694ab3e0b9b76d8cd56b2ec4f05",
+  "installTime": "2"
 }
 ]
