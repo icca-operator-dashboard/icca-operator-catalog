@@ -534,5 +534,43 @@
   "git_url": "https://github.com/saeelparsekar/test-dataset-csv.git",
   "git_commit": "42e5d146f1dca81d996a5e772807a70031d34fc0",
   "installTime": "2"
+},
+{
+  "title": "Open City Model (OCM) Dataset Demo",
+  "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
+  "logo": "_images/DataExplorer (9).png",
+  "enabled": true,
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "S3"
+  ],
+  "de_catalog_id": "Open_City Model (OCM) Dataset Demo_dataset_1606716111240",
+  "categories": [
+    "Population"
+  ],
+  "git_url": "https://github.com/fvales/Open-City-Model-Demo.git",
+  "git_commit": "c896811f96d46634a39d09e441db513890f956f4",
+  "installTime": "2"
+},
+{
+  "title": "Population Dataset Demo",
+  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "de_catalog_id": "Population_Dataset Demo_dataset_1606717050270",
+  "categories": [
+    "Population"
+  ],
+  "git_url": "https://github.com/fvales/Population-Dataset-Demo.git",
+  "git_commit": "09ec1c95b8314635ce1fe6f08ce55fae346ed98b",
+  "installTime": "2"
 }
 ]
