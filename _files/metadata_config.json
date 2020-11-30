@@ -1,1 +1,33 @@
-
+{
+    "tile_info": {
+      config: [
+        {
+          labelText: "Title",
+          id: "title",
+          type: "TextInput",
+          placeholder: "",
+          has_info_icon: true,
+          info_tooltip_text: "Title of the Tile",
+          invalid: false,
+          invalidText: 'A valid value is required',
+          required: false;
+        },
+        {
+          labelText: "Description",
+          id: "description",
+          type: "TextArea",
+          placeholder: "",
+          has_info_icon: true,
+          info_tooltip_text: "Short description about the product",
+          invalid: false,
+          invalidText: 'A valid value is required',
+          required: false;
+        }
+      ]
+    },
+    "metadata_info": {
+      config: [
+      
+      ]
+    }
+}
