@@ -553,5 +553,24 @@
   "git_url": "https://github.com/fvales/Open-City-Model-Demo.git",
   "git_commit": "c896811f96d46634a39d09e441db513890f956f4",
   "installTime": "2"
+},
+{
+  "title": "Population Dataset Demo",
+  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Dataset"
+  ],
+  "tag": [
+    "CSV"
+  ],
+  "de_catalog_id": "Population_Dataset Demo_dataset_1606717050270",
+  "categories": [
+    "Population"
+  ],
+  "git_url": "https://github.com/fvales/Population-Dataset-Demo.git",
+  "git_commit": "09ec1c95b8314635ce1fe6f08ce55fae346ed98b",
+  "installTime": "2"
 }
 ]
