@@ -519,25 +519,9 @@
     "installTime": "3 minutes"
 },
 {
-  "title": "Basic Python Hands-on Notebook-Demo",
-  "description": "Notebook for Basic Python Hands-on Learning",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Notebook"
-  ],
-  "tag": [
-    ""
-  ],
-  "de_catalog_id": "Basic_Python Hands-on Notebook-Demo_notebook_1606458941813",
-  "git_url": "https://github.com/fvales/Basic-Python-Notebook-Demo.git",
-  "git_commit": "dbcc51daa481d694ab3e0b9b76d8cd56b2ec4f05",
-  "installTime": "2"
-},
-{
-  "title": "Population Dataset",
-  "description": "Population figures for countries, regions (e.g. Asia) and the world.",
-  "logo": "_images/dataset.png",
+  "title": "Contribution UI - Dataset(CSV)",
+  "description": "Test dataset created from contribution UI",
+  "logo": "_images/not-authorized.png",
   "enabled": true,
   "category_label": [
     "Dataset"
@@ -545,15 +529,16 @@
   "tag": [
     "CSV"
   ],
-  "de_catalog_id": "Population_Dataset_dataset_1606458588272",
-  "git_url": "https://github.com/fvales/Population-Dataset-Demo.git",
-  "git_commit": "9bdaee62d1c3899389ede107ed64f52ce3f1aa62",
+	"categories":	["Airport", "Communication", "Covid"],
+  "de_catalog_id": "Contribution_UI - Dataset(CSV)_dataset_1606514296763",
+  "git_url": "https://github.com/saeelparsekar/test-dataset-csv.git",
+  "git_commit": "42e5d146f1dca81d996a5e772807a70031d34fc0",
   "installTime": "2"
 },
 {
   "title": "Open City Model (OCM) Dataset Demo",
   "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
-  "logo": "_images/dataset.png",
+  "logo": "_images/DataExplorer (9).png",
   "enabled": true,
   "category_label": [
     "Dataset"
@@ -561,9 +546,12 @@
   "tag": [
     "S3"
   ],
-  "de_catalog_id": "Open_City Model (OCM) Dataset Demo_dataset_1606458374890",
+  "de_catalog_id": "Open_City Model (OCM) Dataset Demo_dataset_1606716111240",
+  "categories": [
+    "Population"
+  ],
   "git_url": "https://github.com/fvales/Open-City-Model-Demo.git",
-  "git_commit": "89f9539d16406f3bd06b415fceb521806cd28495",
+  "git_commit": "c896811f96d46634a39d09e441db513890f956f4",
   "installTime": "2"
 }
 ]
