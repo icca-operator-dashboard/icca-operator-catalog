@@ -572,5 +572,25 @@
   "git_url": "https://github.com/fvales/Population-Dataset-Demo.git",
   "git_commit": "09ec1c95b8314635ce1fe6f08ce55fae346ed98b",
   "installTime": "2"
+},
+{
+  "title": "Sample Notebook Title",
+  "description": "Description of sample notebook",
+  "logo": "_images/images (2).png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "tag": [
+    ""
+  ],
+  "de_catalog_id": "Sample_Notebook Title_notebook_1606722060986",
+  "categories": [
+    "Dev Ops",
+    "Express"
+  ],
+  "git_url": "https://github.com/i-ankit-25/Dataset-catalog.git",
+  "git_commit": "aeee84fb8347a254ae94d71e6d5a614d4e4bfa36",
+  "installTime": "2 minutes"
 }
 ]
