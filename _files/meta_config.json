@@ -2,6 +2,21 @@
    "tile_info":{
       "config":[
          {
+            "labelText":"Type",
+            "id":"type",
+            "type":"Dropdown",
+            "options":[
+                       "Dataset",
+                       "Notebook"
+                     ],
+            "placeholder":"",
+            "has_info_icon":true,
+            "info_tooltip_text":"Type of product",
+            "invalid":false,
+            "invalidText":"A valid value is required",
+            "required":false
+         },
+         {
             "labelText":"Title",
             "id":"title",
             "type":"TextInput",
@@ -10,7 +25,7 @@
             "info_tooltip_text":"Title of the Tile",
             "invalid":false,
             "invalidText":"A valid value is required",
-            "required":"false;"
+            "required":false
          },
          {
             "labelText":"Description",
@@ -21,7 +36,7 @@
             "info_tooltip_text":"Short description about the product",
             "invalid":false,
             "invalidText":"A valid value is required",
-            "required":"false;"
+            "required":false
          }
       ]
    },
