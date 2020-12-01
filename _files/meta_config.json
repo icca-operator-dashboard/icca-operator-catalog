@@ -42,6 +42,10 @@
             "labelText":"Upload Tile logo *",
             "id":"logo",
             "type":"FileUploader",
+            "accept": [
+                        ".jpg",
+                        ".png"
+                     ],
             "placeholder":"",
             "has_info_icon":true,
             "info_tooltip_text":"Product logo",
