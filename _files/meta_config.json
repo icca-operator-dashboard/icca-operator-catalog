@@ -37,6 +37,23 @@
             "invalid":false,
             "invalidText":"A valid value is required",
             "required":false
+         },
+         {
+            "labelText":"Upload Tile logo *",
+            "id":"logo",
+            "type":"FileUploader",
+            "placeholder":"",
+            "has_info_icon":true,
+            "info_tooltip_text":"Product logo",
+            "invalid":false,
+            "invalidText":"A valid value is required",
+            "required":false,
+            "buttonKind":"primary",
+            "buttonLabel":"Upload",
+            "filenameStatus":"edit",
+            "iconDescription":"Clear file",
+            "size":"small",
+            "labelDescription":"Only .jpg and.png files | 2mb max size | 24 x 24 px width and height"
          }
       ]
    },
