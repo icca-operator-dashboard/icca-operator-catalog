@@ -11,7 +11,8 @@
 				"invalid": false,
 				"invalidText": "A valid value is required",
 				"required": false,
-				"helperText": "(in minutes)"
+				"helperText": "(in minutes)",
+				"isMetaInfo": true
 			},
 			{
 				"labelText": "License and Use Rights",
@@ -22,7 +23,8 @@
 				"info_tooltip_text": "Optional",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false
+				"required": false,
+				"isMetaInfo": true
 			},
 			{
 				"labelText": "Source Repository",
@@ -33,7 +35,8 @@
 				"info_tooltip_text": "Git URL of the repo containing the notebook",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false
+				"required": false,
+				"isMetaInfo": false
 			},
 			{
 				"labelText": "Last updated",
@@ -46,7 +49,8 @@
 				"invalidText": "A valid value is required",
 				"required": false,
 				"dateFormat": "m/d/Y",
-				"datePickerType": "single"
+				"datePickerType": "single",
+				"isMetaInfo": true
 			},
 			{
 				"labelText": "Contact",
@@ -57,7 +61,8 @@
 				"info_tooltip_text": "Support contact",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false
+				"required": false,
+				"isMetaInfo": true
 			},
 			{
 				"labelText": "Preferred Platform",
@@ -82,7 +87,8 @@
 				"invalid": false,
 				"invalidText": "A valid value is required",
 				"required": false,
-				"label": "Select"
+				"label": "Select",
+				"isMetaInfo": true
 			},
 			{
 				"labelText": "Managed By",
@@ -93,7 +99,8 @@
 				"info_tooltip_text": "",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false
+				"required": false,
+				"isMetaInfo": true
 			}
 		]
 	},
@@ -110,7 +117,8 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"helperText": "(in minutes)"
+					"helperText": "(in minutes)",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "License and Use Rights",
@@ -121,7 +129,8 @@
 					"info_tooltip_text": "Optional",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Cloud Service",
@@ -132,7 +141,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Region",
@@ -143,7 +153,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Usage Example(URL)",
@@ -154,7 +165,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Last updated",
@@ -167,7 +179,8 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"dateFormat": "m/d/Y",
-					"datePickerType": "single"
+					"datePickerType": "single",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Contact",
@@ -178,7 +191,8 @@
 					"info_tooltip_text": "Support contact",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Preferred Platform",
@@ -203,7 +217,8 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"label": "Select"
+					"label": "Select",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Managed By",
@@ -214,7 +229,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				}
 
 			]
@@ -231,7 +247,8 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"helperText": "(in minutes)"
+					"helperText": "(in minutes)",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "License and Use Rights",
@@ -242,7 +259,8 @@
 					"info_tooltip_text": "Optional",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Source Repository",
@@ -253,7 +271,8 @@
 					"info_tooltip_text": "Git URL of the repo containing the notebook",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": false
 				},
 				{
 					"labelText": "Usage Example(URL)",
@@ -264,7 +283,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Last updated",
@@ -277,7 +297,8 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"dateFormat": "m/d/Y",
-					"datePickerType": "single"
+					"datePickerType": "single",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Contact",
@@ -288,7 +309,8 @@
 					"info_tooltip_text": "Support contact",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Preferred Platform",
@@ -313,7 +335,8 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"label": "Select"
+					"label": "Select",
+					"isMetaInfo": true
 				},
 				{
 					"labelText": "Managed By",
@@ -324,7 +347,8 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": false,
+					"isMetaInfo": true
 				}
 			]
 		}
