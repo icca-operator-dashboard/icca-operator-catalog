@@ -12,7 +12,7 @@
 				"invalidText": "A valid value is required",
 				"required": false,
 				"helperText": "(in minutes)",
-				"isMetaInfo": true
+				"isMetaInfo": false
 			},
 			{
 				"labelText": "License and Use Rights",
@@ -118,7 +118,7 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"helperText": "(in minutes)",
-					"isMetaInfo": true
+					"isMetaInfo": false
 				},
 				{
 					"labelText": "License and Use Rights",
@@ -248,7 +248,7 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"helperText": "(in minutes)",
-					"isMetaInfo": true
+					"isMetaInfo": false
 				},
 				{
 					"labelText": "License and Use Rights",
