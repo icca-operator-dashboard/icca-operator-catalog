@@ -28,7 +28,7 @@
 			},
 			{
 				"labelText": "Source Repository",
-				"id": "notebook_source_repo",
+				"id": "source_repo",
 				"type": "TextInput",
 				"placeholder": "eg: https://github.com/op-playground/operator-playground.git",
 				"has_info_icon": true,
@@ -264,11 +264,11 @@
 				},
 				{
 					"labelText": "Source Repository",
-					"id": "notebook_source_repo",
+					"id": "source_repo",
 					"type": "TextInput",
 					"placeholder": "eg: https://github.com/op-playground/operator-playground.git",
 					"has_info_icon": true,
-					"info_tooltip_text": "Git URL of the repo containing the notebook",
+					"info_tooltip_text": "Git URL of the repo containing the CSV file(s)",
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
