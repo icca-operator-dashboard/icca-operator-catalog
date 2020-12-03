@@ -1,19 +1,6 @@
 {
 	"Notebook": {
-		"config": [{
-				"labelText": "Install Time",
-				"id": "installTime",
-				"type": "NumberInput",
-				"placeholder": "",
-				"min": 0,
-				"has_info_icon": true,
-				"info_tooltip_text": "Estimated time for your deployment",
-				"invalid": false,
-				"invalidText": "A valid value is required",
-				"required": false,
-				"helperText": "(in minutes)",
-				"isMetaInfo": false
-			},
+		"config": [
 			{
 				"labelText": "License and Use Rights",
 				"id": "license",
@@ -23,20 +10,7 @@
 				"info_tooltip_text": "Optional",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false,
-				"isMetaInfo": true
-			},
-			{
-				"labelText": "Source Repository",
-				"id": "source_repo",
-				"type": "TextInput",
-				"placeholder": "eg: https://github.com/op-playground/operator-playground.git",
-				"has_info_icon": true,
-				"info_tooltip_text": "Git URL of the repo containing the notebook",
-				"invalid": false,
-				"invalidText": "A valid value is required",
-				"required": false,
-				"isMetaInfo": false
+				"required": false
 			},
 			{
 				"labelText": "Last updated",
@@ -49,8 +23,7 @@
 				"invalidText": "A valid value is required",
 				"required": false,
 				"dateFormat": "m/d/Y",
-				"datePickerType": "single",
-				"isMetaInfo": true
+				"datePickerType": "single"
 			},
 			{
 				"labelText": "Contact",
@@ -61,8 +34,7 @@
 				"info_tooltip_text": "Support contact",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false,
-				"isMetaInfo": true
+				"required": false
 			},
 			{
 				"labelText": "Preferred Platform",
@@ -87,8 +59,7 @@
 				"invalid": false,
 				"invalidText": "A valid value is required",
 				"required": false,
-				"label": "Select",
-				"isMetaInfo": true
+				"label": "Select"
 			},
 			{
 				"labelText": "Managed By",
@@ -99,27 +70,13 @@
 				"info_tooltip_text": "",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false,
-				"isMetaInfo": true
+				"required": false
 			}
 		]
 	},
 	"Dataset": {
 		"S3": {
-			"config": [{
-					"labelText": "Install Time",
-					"id": "installTime",
-					"type": "NumberInput",
-					"placeholder": "",
-					"min": 0,
-					"has_info_icon": true,
-					"info_tooltip_text": "Estimated time for your deployment",
-					"invalid": false,
-					"invalidText": "A valid value is required",
-					"required": false,
-					"helperText": "(in minutes)",
-					"isMetaInfo": false
-				},
+			"config": [
 				{
 					"labelText": "License and Use Rights",
 					"id": "license",
@@ -129,8 +86,7 @@
 					"info_tooltip_text": "Optional",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Cloud Service",
@@ -141,8 +97,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Region",
@@ -153,8 +108,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Usage Example(URL)",
@@ -165,8 +119,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Last updated",
@@ -179,8 +132,7 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"dateFormat": "m/d/Y",
-					"datePickerType": "single",
-					"isMetaInfo": true
+					"datePickerType": "single"
 				},
 				{
 					"labelText": "Contact",
@@ -191,8 +143,7 @@
 					"info_tooltip_text": "Support contact",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Preferred Platform",
@@ -217,8 +168,7 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"label": "Select",
-					"isMetaInfo": true
+					"label": "Select"
 				},
 				{
 					"labelText": "Managed By",
@@ -229,27 +179,13 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				}
 
 			]
 		},
 		"CSV": {
-			"config": [{
-					"labelText": "Install Time",
-					"id": "installTime",
-					"type": "NumberInput",
-					"placeholder": "",
-					"min": 0,
-					"has_info_icon": true,
-					"info_tooltip_text": "Estimated time for your deployment",
-					"invalid": false,
-					"invalidText": "A valid value is required",
-					"required": false,
-					"helperText": "(in minutes)",
-					"isMetaInfo": false
-				},
+			"config": [
 				{
 					"labelText": "License and Use Rights",
 					"id": "license",
@@ -259,20 +195,7 @@
 					"info_tooltip_text": "Optional",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
-				},
-				{
-					"labelText": "Source Repository",
-					"id": "source_repo",
-					"type": "TextInput",
-					"placeholder": "eg: https://github.com/op-playground/operator-playground.git",
-					"has_info_icon": true,
-					"info_tooltip_text": "Git URL of the repo containing the CSV file(s)",
-					"invalid": false,
-					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": false
+					"required": false
 				},
 				{
 					"labelText": "Usage Example(URL)",
@@ -283,8 +206,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Last updated",
@@ -297,8 +219,7 @@
 					"invalidText": "A valid value is required",
 					"required": false,
 					"dateFormat": "m/d/Y",
-					"datePickerType": "single",
-					"isMetaInfo": true
+					"datePickerType": "single"
 				},
 				{
 					"labelText": "Contact",
@@ -309,8 +230,7 @@
 					"info_tooltip_text": "Support contact",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				},
 				{
 					"labelText": "Preferred Platform",
@@ -335,8 +255,7 @@
 					"invalid": false,
 					"invalidText": "A valid value is required",
 					"required": false,
-					"label": "Select",
-					"isMetaInfo": true
+					"label": "Select"
 				},
 				{
 					"labelText": "Managed By",
@@ -347,8 +266,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false,
-					"isMetaInfo": true
+					"required": false
 				}
 			]
 		}
