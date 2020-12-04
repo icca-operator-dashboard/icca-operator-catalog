@@ -46,7 +46,7 @@
 				"has_info_icon": false,
 				"info_tooltip_text": "",
 				"invalid": false,
-				"invalidText": "A valid value is required",
+				"invalidText": "Please select Preferred Platform",
 				"required": false,
 				"label": "Select"
 			},
@@ -144,7 +144,7 @@
 					"has_info_icon": false,
 					"info_tooltip_text": "",
 					"invalid": false,
-					"invalidText": "A valid value is required",
+					"invalidText": "Please select Preferred Platform",
 					"required": false,
 					"label": "Select"
 				},
@@ -220,7 +220,7 @@
 					"has_info_icon": false,
 					"info_tooltip_text": "",
 					"invalid": false,
-					"invalidText": "A valid value is required",
+					"invalidText": "Please select Preferred Platform",
 					"required": false,
 					"label": "Select"
 				},
