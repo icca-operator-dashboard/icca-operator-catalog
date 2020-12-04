@@ -26,17 +26,6 @@
 				"datePickerType": "single"
 			},
 			{
-				"labelText": "Contact",
-				"id": "contact",
-				"type": "TextInput",
-				"placeholder": "",
-				"has_info_icon": true,
-				"info_tooltip_text": "Support contact",
-				"invalid": false,
-				"invalidText": "A valid value is required",
-				"required": false
-			},
-			{
 				"labelText": "Preferred Platform",
 				"id": "preferred_platform",
 				"type": "Dropdown",
@@ -135,17 +124,6 @@
 					"datePickerType": "single"
 				},
 				{
-					"labelText": "Contact",
-					"id": "contact",
-					"type": "TextInput",
-					"placeholder": "",
-					"has_info_icon": true,
-					"info_tooltip_text": "Support contact",
-					"invalid": false,
-					"invalidText": "A valid value is required",
-					"required": false
-				},
-				{
 					"labelText": "Preferred Platform",
 					"id": "preferred_platform",
 					"type": "Dropdown",
@@ -220,17 +198,6 @@
 					"required": false,
 					"dateFormat": "m/d/Y",
 					"datePickerType": "single"
-				},
-				{
-					"labelText": "Contact",
-					"id": "contact",
-					"type": "TextInput",
-					"placeholder": "",
-					"has_info_icon": true,
-					"info_tooltip_text": "Support contact",
-					"invalid": false,
-					"invalidText": "A valid value is required",
-					"required": false
 				},
 				{
 					"labelText": "Preferred Platform",
