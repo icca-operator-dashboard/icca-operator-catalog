@@ -47,7 +47,7 @@
 				"info_tooltip_text": "",
 				"invalid": false,
 				"invalidText": "Please select Preferred Platform",
-				"required": false,
+				"required": true,
 				"label": "Select"
 			},
 			{
@@ -57,9 +57,9 @@
 				"placeholder": "",
 				"has_info_icon": false,
 				"info_tooltip_text": "",
-				"invalid": false,
+				"invalid": true,
 				"invalidText": "A valid value is required",
-				"required": false
+				"required": true
 			}
 		]
 	},
@@ -86,7 +86,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": true
 				},
 				{
 					"labelText": "Region",
@@ -145,7 +145,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "Please select Preferred Platform",
-					"required": false,
+					"required": true,
 					"label": "Select"
 				},
 				{
@@ -157,7 +157,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "A valid value is required",
-					"required": false
+					"required": true
 				}
 
 			]
@@ -221,7 +221,7 @@
 					"info_tooltip_text": "",
 					"invalid": false,
 					"invalidText": "Please select Preferred Platform",
-					"required": false,
+					"required": true,
 					"label": "Select"
 				},
 				{
@@ -231,7 +231,7 @@
 					"placeholder": "",
 					"has_info_icon": false,
 					"info_tooltip_text": "",
-					"invalid": false,
+					"invalid": true,
 					"invalidText": "A valid value is required",
 					"required": false
 				}
