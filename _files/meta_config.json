@@ -109,7 +109,7 @@
                "info_tooltip_text":"",
                "invalid":false,
                "invalidText":"A valid value is required",
-               "required":false,
+               "required":false
             },
             {
                "labelText":"Last updated",
@@ -185,7 +185,7 @@
                "info_tooltip_text":"",
                "invalid":false,
                "invalidText":"A valid value is required",
-               "required":false,
+               "required":false
             },
             {
                "labelText":"Last updated",
