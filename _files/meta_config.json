@@ -303,7 +303,7 @@
 			}
 		]
 	},
-	"Operator": {
+	"Operators": {
 		"config": [{
 				"labelText": "Preferred Platform",
 				"id": "preferred_platform",
