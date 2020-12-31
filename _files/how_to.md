@@ -1,7 +1,3 @@
----
-title: Prometheus Instance Creation tutorial
-description: This tutorial explains how create Instances for your Prometheus Operator.
----
 ### Create this CR which will create a Prometheus Instance along with a ServiceAccount and a Service of Type NodePort  
 
 ```execute
