@@ -21,6 +21,7 @@
       "title":"Welcome to Data Explorer Dashboard",
       "defaultVMDuration":"1",
       "stacks":"_files/stacks.json",
+      "how_to":"_files/how_to.md",
       "appLayout":"accordion",
       "appTheme":"g90",
       "footer":"__private/footer.md"
