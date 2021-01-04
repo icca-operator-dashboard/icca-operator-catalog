@@ -541,5 +541,29 @@
   "git_url": "https://github.com/i-data-explorer/Test-Flower-Classification-Notebook",
   "git_commit": "8c8db427ca96b5c99ceefcdef4e4f65a4265652d",
   "installTime": "2 minutes"
+},
+{
+  "title": "Test - IPython Notebook Collection",
+  "description": "A collection of IPython notebooks covering various topics",
+  "logo": "_images/dataset.png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "document": "",
+  "stack_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "de_catalog_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
+  "type": "Notebook",
+  "categories": [
+    "Machine learning"
+  ],
+  "tag": [],
+  "has_api": false,
+  "has_dataset": false,
+  "is_certified": false,
+  "has_support": false,
+  "git_url": "https://github.com/i-data-explorer/Test---IPython-Notebook-Tile",
+  "git_commit": "7e7e8d6750ff75cfc90d145b6b77336bc3911a5d",
+  "installTime": "2 minutes"
 }
 ]
