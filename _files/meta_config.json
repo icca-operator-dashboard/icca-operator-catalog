@@ -376,5 +376,55 @@
 				"required": false
 			}
 		]
+	},
+	"Course": {
+		"config": [
+			{
+			       "labelText":"Usage Example(URL)",
+			       "id":"usage_example",
+			       "type":"TextInput",
+			       "placeholder":"",
+			       "has_info_icon":false,
+			       "info_tooltip_text":"",
+			       "invalid":false,
+			       "invalidText":"A valid value is required",
+			       "required":false
+			 },
+			{
+				"labelText": "Last updated",
+				"id": "date-picker-calendar-id",
+				"type": "DatePicker",
+				"placeholder": "mm/dd/yyyy",
+				"has_info_icon": true,
+				"info_tooltip_text": "Date when the API was last modified",
+				"invalid": false,
+				"invalidText": "A valid value is required",
+				"required": false,
+				"dateFormat": "m/d/Y",
+				"datePickerType": "single"
+			},
+			{
+				"labelText": "Managed By",
+				"id": "managed_by",
+				"type": "TextInput",
+				"placeholder": "",
+				"has_info_icon": false,
+				"info_tooltip_text": "",
+				"invalid": false,
+				"invalidText": "A valid value is required",
+				"required": false
+			},
+			{
+				"labelText": "License and Use Rights",
+				"id": "license",
+				"type": "TextInput",
+				"placeholder": "",
+				"has_info_icon": true,
+				"info_tooltip_text": "Optional",
+				"invalid": false,
+				"invalidText": "A valid value is required",
+				"required": false
+			}
+		]
 	}
 }
