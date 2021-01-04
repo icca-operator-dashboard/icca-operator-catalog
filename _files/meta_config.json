@@ -399,7 +399,7 @@
 				"info_tooltip_text": "Date when the API was last modified",
 				"invalid": false,
 				"invalidText": "A valid value is required",
-				"required": false,
+				"required": true,
 				"dateFormat": "m/d/Y",
 				"datePickerType": "single"
 			},
