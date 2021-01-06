@@ -1,6 +1,6 @@
 [
     {
-        "title": "My first notebook tile",
+        "title": "My first notebook",
         "description": "User guide",
         "logo": "_images/notebook.png",
         "enabled": true,
@@ -20,7 +20,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
-        "git_commit": "c5f8069f68eb047b17c3dc1bde951af840ffd5fb",
+        "git_commit": "8a88eae2e401ac41c476808cfdbce38f121e2230",
         "installTime": "2 minutes"
     },
     {
