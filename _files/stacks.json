@@ -517,53 +517,5 @@
     "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
     "git_commit": "8db86c6e560c6e15759bb8f71e2a0a61ad34456a",
     "installTime": "3 minutes"
-},
-{
-  "title": "Test - Flower Classification Notebook",
-  "description": "Notebook for flower classifications",
-  "logo": "_images/Flower.png",
-  "enabled": true,
-  "category_label": [
-    "Notebook"
-  ],
-  "document": "",
-  "stack_id": "Test_-_Flower_Classification_Notebook_notebook_1609755384582",
-  "de_catalog_id": "Test_-_Flower_Classification_Notebook_notebook_1609755384582",
-  "type": "Notebook",
-  "categories": [
-    "Others"
-  ],
-  "tag": [],
-  "has_api": false,
-  "has_dataset": false,
-  "is_certified": false,
-  "has_support": false,
-  "git_url": "https://github.com/i-data-explorer/Test-Flower-Classification-Notebook",
-  "git_commit": "8c8db427ca96b5c99ceefcdef4e4f65a4265652d",
-  "installTime": "2 minutes"
-},
-{
-  "title": "Test - IPython Notebook Collection",
-  "description": "A collection of IPython notebooks covering various topics",
-  "logo": "_images/dataset.png",
-  "enabled": true,
-  "category_label": [
-    "Notebook"
-  ],
-  "document": "",
-  "stack_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
-  "de_catalog_id": "Test_-_IPython_Notebook_Collection_notebook_1609757162317",
-  "type": "Notebook",
-  "categories": [
-    "Machine learning"
-  ],
-  "tag": [],
-  "has_api": false,
-  "has_dataset": false,
-  "is_certified": false,
-  "has_support": false,
-  "git_url": "https://github.com/i-data-explorer/Test---IPython-Notebook-Tile",
-  "git_commit": "7e7e8d6750ff75cfc90d145b6b77336bc3911a5d",
-  "installTime": "2 minutes"
 }
 ]
