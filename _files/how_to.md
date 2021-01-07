@@ -1,11 +1,9 @@
 ### About Data Explorer
 
-https://github.com/rhm-samples/data-explorer-operator/wiki/Data-Explorer-Operator
+To know more about Data Explorer visit [here](https://github.com/rhm-samples/data-explorer-operator/wiki/Data-Explorer-Operator).
 
 
-
-
-### Support
+### Support and Queries
 
 For support open an issue at <https://github.com/rhm-samples/data-explorer-operator/issues>.
  
