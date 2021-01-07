@@ -1,3 +1,4 @@
+***
 ### About Data Explorer
 
 To know more about Data Explorer visit [here](https://github.com/rhm-samples/data-explorer-operator/wiki/Data-Explorer-Operator).
