@@ -12,7 +12,7 @@
         "de_catalog_id": "My_first_notebook_tile_notebook_1609928816737",
         "type": "Notebook",
         "categories": [
-            "tutorial"
+            "Tutorial"
         ],
         "tag": [],
         "has_api": false,
@@ -20,7 +20,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
-        "git_commit": "56eb9f522d18cf0f21ef123eda5bb51b5107bcae",
+        "git_commit": "137633023bae06aeb94f80f0d4fa406d3a079eac",
         "installTime": "2 minutes"
     },
     {
