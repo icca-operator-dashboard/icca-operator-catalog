@@ -15,11 +15,11 @@
             "Tutorial"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "has_api": false,
         "has_dataset": false,
         "is_certified": true,
         "has_support": true,
-        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
         "git_commit": "3f1ef034de7c7a171e0eda53751205aee964d121",
         "installTime": "2 minutes"
@@ -33,12 +33,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "cancer_dataset_notebook",
         "categories": [
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/cancer-dataset-notebook-tile.git",
-        "git_commit": "c6840c960703fbc3f5cd23f93ef50c5f96c976d9",
+        "git_commit": "dbd01402911f8190a918c4fdac9761bcd1c37279",
         "installTime": "2 minutes"
     },
     {
@@ -50,12 +51,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "flower_classification_notebook",
         "categories": [
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-        "git_commit": "af8df84300feb15758cebc35bed4201759d90bba",
+        "git_commit": "ffb9a80c07ab9ad049c79e8f4c5d12a881b4f882",
         "installTime": "2 minutes"
     },
     {
@@ -71,8 +73,9 @@
             "Movies"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
-        "git_commit": "78c3f69c88fd79944f4e5ee315c4625343c12b58",
+        "git_commit": "6ac9701ae5c67809789fa615bc12e398464a598e",
         "installTime": "3 minutes"
     },
     {
@@ -88,8 +91,9 @@
             "Food"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
-        "git_commit": "57c733c2177dab95cfd93eba6a88069fbb89d6c9",
+        "git_commit": "bc8f663c27e2a75c2ac72fa99baee12fd179b6ce",
         "installTime": "2 minutes"
     },
     {
@@ -106,8 +110,9 @@
             "Machine Learning"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
-        "git_commit": "54d49582b1482f81f51e9caf3bb718186fbf4e61",
+        "git_commit": "bacce018431ce6efa5c26f15134b929fb63b9b9d",
         "installTime": "2 minutes"
     },
     {
@@ -124,8 +129,9 @@
             "Machine Learning"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
-        "git_commit": "06bb9e0b12c9387f7c99304951a774e8b66ad0e7",
+        "git_commit": "2bcea151d304aa220d4967740692f7390a002d06",
         "installTime": "2 minutes"
     },
     {
@@ -137,12 +143,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
         "categories": [
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-        "git_commit": "f4c4bbf1bf205ebe51475fc56f48f68d3353f81d",
+        "git_commit": "7a35844b01e6f54dac095da7c3f6e6add5e17d3f",
         "installTime": "3 minutes"
     },
     {
@@ -154,12 +161,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
         "categories": [
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-        "git_commit": "b564aadd9ba47d7d3acab1be2712de4f3443d760",
+        "git_commit": "5befe6cb5765d639fcbc79f327e613ba6776b0c0",
         "installTime": "3 minutes"
     },
     {
@@ -171,12 +179,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "basic_python_hands_on_notebook",
         "categories": [
             "Education"
         ],
         "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
-        "git_commit": "fe350aeafc834722495eaa21070facd636351c2d",
+        "git_commit": "2ae2f3c169471c9296648e1b1884b2886b52d3ab",
         "installTime": "2 minutes"
     },
     {
@@ -188,12 +197,13 @@
             "Notebook"
         ],
         "tag": [],
+        "managed_by": ["Edge"],
         "de_catalog_id": "covid_2019_visualization_notebook",
         "categories": [
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
-        "git_commit": "abae4540ffaa5b3ad6f39f0402159b5646f8a468",
+        "git_commit": "46a849430725029bebfa9989d5c1109933bb1e1f",
         "installTime": "3 minutes"
     },
     {
@@ -207,12 +217,13 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "flower_classification_dataset",
         "categories": [
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
-        "git_commit": "0a8c206f5b00ff20555ef54b17ffea0917c490e8",
+        "git_commit": "a20536747c662255a1116408fb7436b5558f2e18",
         "installTime": "2 minutes"
     },
     {
@@ -226,12 +237,13 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "movie_recommendation_engine_dataset",
         "categories": [
             "Movies"
         ],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
-        "git_commit": "34db7f4eb462cbcb79b4b9b08239caaeecf8c5fb",
+        "git_commit": "d16f52d994325f6f6280b8d92e3232c3bc49ea42",
         "installTime": "3 minutes"
     },
     {
@@ -245,12 +257,13 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
         "categories": [
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
-        "git_commit": "7f39f2e1e4bb351edb4eafe5a1ba32f3bf032f76",
+        "git_commit": "c541f3aad8e9d675408ad50d678ef5861376a163",
         "installTime": "3 minutes"
     },
     {
@@ -264,12 +277,13 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
         "categories": [
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-        "git_commit": "a095ec07b6422a87b5c77460a8dbf6a51e8599ff",
+        "git_commit": "443071aa3b650c5845f61edb1354e9f854b64daa",
         "installTime": "3 minutes"
     },
     {
@@ -283,12 +297,13 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "covid_2019_visualization_dataset",
         "categories": [
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
-        "git_commit": "8db86c6e560c6e15759bb8f71e2a0a61ad34456a",
+        "git_commit": "ec0d12e10fe15595ae8c6e6491bb478da2c3de4a",
         "installTime": "3 minutes"
     },
     {
@@ -306,8 +321,9 @@
         "tag": [
             "CSV"
         ],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-        "git_commit": "4ced55cc267036a77f8f8d4741027af4ecdb48c4",
+        "git_commit": "2942673db3e6c99e9a7e4cb0ee5a772ad30b89d9",
         "installTime": "2 minutes"
     },
     {
@@ -321,6 +337,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "fm-ad-dataset",
         "categories": [
             "Health"
@@ -329,7 +346,7 @@
             "gdc-fm-ad-phs001179-2-open"
         ],
         "git_url": "https://github.com/i-data-explorer/FM-AD-Dataset.git",
-        "git_commit": "db4edac62116046f43fa033b65b999bf543baf4c",
+        "git_commit": "b4b680d977dd391a6eb717fa8f392936da6e3c93",
         "installTime": "2 minutes"
     },
     {
@@ -340,6 +357,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "category_label": [
             "Dataset"
         ],
@@ -352,7 +370,7 @@
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/MUR-SST-dataset.git",
-        "git_commit": "73f04ef47645b3fabceb14113e2ab5e209204479",
+        "git_commit": "67a878c29a8d31b924513e169016ab8f5a2b08e6",
         "installTime": "2 minutes"
     },
     {
@@ -366,6 +384,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "cgs-dataset",
         "categories": [
             "Covid",
@@ -376,7 +395,7 @@
             "sra-pub-sars-cov2-metadata-us-east-1"
         ],
         "git_url": "https://github.com/i-data-explorer/CGS-dataset.git",
-        "git_commit": "69e7d7ca8c68c8a49315770bd30f778463eebe40",
+        "git_commit": "b77bdee5f7c15a07a0505a571dbf897a20582c9b",
         "installTime": "2 minutes"
     },
     {
@@ -390,6 +409,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "ocm-dataset",
         "categories": [
             "General",
@@ -399,7 +419,7 @@
             "opencitymodel"
         ],
         "git_url": "https://github.com/i-data-explorer/OCM-dataset.git",
-        "git_commit": "b9a18010c7e7fd2961c006617da7b8fa199a146d",
+        "git_commit": "6c2e8b6a094c103beda7ddc912755c5b22ae0ba8",
         "installTime": "2 minutes"
     },
     {
@@ -413,6 +433,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "us-hiring-rates-dataset",
         "buckets": [
             "greenwichhr-covidjobimpacts"
@@ -421,7 +442,7 @@
             "Employment"
         ],
         "git_url": "https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
-        "git_commit": "106b8a78e234d45e8161052c33d91bb1841e7e88",
+        "git_commit": "c6e2facf54ba9be285fab1c66d75cd5a541cc10e",
         "installTime": "3 minutes"
     },
     {
@@ -435,6 +456,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "ccafs-climate-data-dataset",
         "buckets": [
             "cgiardata"
@@ -444,7 +466,7 @@
             "Agriculture"
         ],
         "git_url": "https://github.com/i-data-explorer/ccafs-climate-data.git",
-        "git_commit": "52569fa0731be39675b42e8ce03a0de181e0810b",
+        "git_commit": "95bd9f5b647832b81a96b06947c7cbbfa65ee633",
         "installTime": "3 minutes"
     },
     {
@@ -462,12 +484,13 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "landsat-8-dataset",
         "categories": [
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/landsat-8-dataset.git",
-        "git_commit": "81b32dd857e78673eb15a60bfc3fdae1045ba864",
+        "git_commit": "9754f0af3ac545c5722ae4a252a739aacd3398f8",
         "installTime": "2 minutes"
     },
     {
@@ -481,6 +504,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "noaa-ndfd-dataset",
         "buckets": [
             "noaa-ndfd-pds"
@@ -490,7 +514,7 @@
             "Geo Data"
         ],
         "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
-        "git_commit": "99b1a2da25d8b3aaee14646fe4eaf9263cbde3cb",
+        "git_commit": "6719e3255772fb3b24f4e79baf5e0072b9be45a9",
         "installTime": "2 minutes"
     },
     {
@@ -504,6 +528,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "de_catalog_id": "noaa-ghe-dataset",
         "buckets": [
             "noaa-ghe-pds"
@@ -512,7 +537,6 @@
             "Environment",
             "Geo Data"
         ],
-        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/noaa-ghe-dataset.git",
         "git_commit": "359f724c058657188d98835d85b0593a76ade425",
         "installTime": "2 minutes"
@@ -528,6 +552,7 @@
         "tag": [
             "S3"
         ],
+        "managed_by": ["Edge"],
         "buckets": [
             "nasanex:/NEX-DCP30",
             "nasanex:/NEX-GDDP",
@@ -541,7 +566,7 @@
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
-        "git_commit": "35274693649e6dbe73abd90b9b994df7ff16a24f",
+        "git_commit": "c0d9a3cda56e7ec840afd52da7cf1ca6253e39fb",
         "installTime": "2 minutes"
     }
 ]
