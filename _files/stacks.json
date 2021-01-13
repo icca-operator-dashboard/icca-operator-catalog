@@ -512,6 +512,7 @@
             "Environment",
             "Geo Data"
         ],
+        "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/noaa-ghe-dataset.git",
         "git_commit": "359f724c058657188d98835d85b0593a76ade425",
         "installTime": "2 minutes"
