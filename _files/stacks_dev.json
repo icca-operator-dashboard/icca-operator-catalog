@@ -1,0 +1,363 @@
+[
+    {
+        "title": "My first notebook",
+        "description": "User guide",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "document": "",
+        "stack_id": "My_first_notebook_notebook_1609928816737",
+        "de_catalog_id": "My_first_notebook_notebook_1609928816737",
+        "type": "Notebook",
+        "categories": [
+            "Tutorial"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "has_api": false,
+        "has_dataset": false,
+        "is_certified": true,
+        "has_support": true,
+        "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
+        "git_commit": "3f1ef034de7c7a171e0eda53751205aee964d121",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Cancer Dataset Notebook",
+        "description": "Biospecimen and clinical records related to Cancer.",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "cancer_dataset_notebook",
+        "categories": [
+            "Health"
+        ],
+        "git_url": "https://github.com/i-data-explorer/cancer-dataset-notebook-tile.git",
+        "git_commit": "dbd01402911f8190a918c4fdac9761bcd1c37279",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Flower Classification Notebook",
+        "description": "Notebook for flower classifications",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "flower_classification_notebook",
+        "categories": [
+            "Environment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
+        "git_commit": "ffb9a80c07ab9ad049c79e8f4c5d12a881b4f882",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Notebook",
+        "description": "Notebook for Movie Recommendation Engine",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "movie_recommendation_engine_notebook",
+        "categories": [
+            "Movies"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
+        "git_commit": "6ac9701ae5c67809789fa615bc12e398464a598e",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Predict Wine Quality Notebook",
+        "description": "Notebook to Predict Wine Quality Notebook",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "predict_wine_quality_notebook",
+        "categories": [
+            "Food"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
+        "git_commit": "bc8f663c27e2a75c2ac72fa99baee12fd179b6ce",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "IPython Notebook Collection",
+        "description": "A collection of IPython notebooks covering various topics",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "ipython_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
+        "git_commit": "bacce018431ce6efa5c26f15134b929fb63b9b9d",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
+        "description": "The Python Machine Learning (3rd edition) notebook collection",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "python_machine_learning_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
+        "git_commit": "2bcea151d304aa220d4967740692f7390a002d06",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Notebook",
+        "description": "Notebook for Boston House Prediction Evaluation Validation",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
+        "git_commit": "7a35844b01e6f54dac095da7c3f6e6add5e17d3f",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Notebook",
+        "description": "Notebook for Supermarket Data Analysis and Visualization",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
+        "git_commit": "5befe6cb5765d639fcbc79f327e613ba6776b0c0",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Basic Python Hands-on Notebook",
+        "description": "Notebook for Basic Python Hands-on Learning",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "basic_python_hands_on_notebook",
+        "categories": [
+            "Education"
+        ],
+        "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
+        "git_commit": "2ae2f3c169471c9296648e1b1884b2886b52d3ab",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Notebook",
+        "description": "Notebook for Covid 2019 Data Analysis and Visualization",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "covid_2019_visualization_notebook",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
+        "git_commit": "46a849430725029bebfa9989d5c1109933bb1e1f",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Flower Classification Data",
+        "description": "Dataset for flower classifications",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "flower_classification_dataset",
+        "categories": [
+            "Health"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
+        "git_commit": "a20536747c662255a1116408fb7436b5558f2e18",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Dataset",
+        "description": "Dataset for Movie Recommendation Engine",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "movie_recommendation_engine_dataset",
+        "categories": [
+            "Movies"
+        ],
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
+        "git_commit": "d16f52d994325f6f6280b8d92e3232c3bc49ea42",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Dataset",
+        "description": "Dataset for Boston House Prediction Evaluation Validation",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
+        "git_commit": "c541f3aad8e9d675408ad50d678ef5861376a163",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Dataset",
+        "description": "Dataset for Supermarket Data Analysis and Visualization",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
+        "git_commit": "443071aa3b650c5845f61edb1354e9f854b64daa",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Dataset",
+        "description": "Dataset for Covid 2019 Data Analysis and Visualization",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "covid_2019_visualization_dataset",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
+        "git_commit": "ec0d12e10fe15595ae8c6e6491bb478da2c3de4a",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Population Dataset",
+        "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "de_catalog_id": "population_dataset",
+        "categories": [
+            "Population"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/population-dataset.git",
+        "git_commit": "2942673db3e6c99e9a7e4cb0ee5a772ad30b89d9",
+        "installTime": "2 minutes"
+    }
+]
