@@ -1,0 +1,626 @@
+[
+    {
+        "title": "My first notebook",
+        "description": "User guide",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "document": "",
+        "stack_id": "My_first_notebook_notebook_1609928816737",
+        "de_catalog_id": "My_first_notebook_notebook_1609928816737",
+        "type": "Notebook",
+        "categories": [
+            "Tutorial"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "has_api": false,
+        "has_dataset": false,
+        "is_certified": true,
+        "has_support": true,
+        "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
+        "git_commit": "3f1ef034de7c7a171e0eda53751205aee964d121",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Cancer Dataset Notebook",
+        "description": "Biospecimen and clinical records related to Cancer.",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "cancer_dataset_notebook",
+        "categories": [
+            "Health"
+        ],
+        "git_url": "https://github.com/i-data-explorer/cancer-dataset-notebook-tile.git",
+        "git_commit": "dbd01402911f8190a918c4fdac9761bcd1c37279",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Flower Classification Notebook",
+        "description": "Notebook for flower classifications",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "flower_classification_notebook",
+        "categories": [
+            "Environment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
+        "git_commit": "ffb9a80c07ab9ad049c79e8f4c5d12a881b4f882",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Notebook",
+        "description": "Notebook for Movie Recommendation Engine",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "movie_recommendation_engine_notebook",
+        "categories": [
+            "Movies"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
+        "git_commit": "6ac9701ae5c67809789fa615bc12e398464a598e",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Predict Wine Quality Notebook",
+        "description": "Notebook to Predict Wine Quality Notebook",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "predict_wine_quality_notebook",
+        "categories": [
+            "Food"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
+        "git_commit": "bc8f663c27e2a75c2ac72fa99baee12fd179b6ce",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "IPython Notebook Collection",
+        "description": "A collection of IPython notebooks covering various topics",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "ipython_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
+        "git_commit": "bacce018431ce6efa5c26f15134b929fb63b9b9d",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
+        "description": "The Python Machine Learning (3rd edition) notebook collection",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "python_machine_learning_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
+        "git_commit": "2bcea151d304aa220d4967740692f7390a002d06",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Notebook",
+        "description": "Notebook for Boston House Prediction Evaluation Validation",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
+        "git_commit": "7a35844b01e6f54dac095da7c3f6e6add5e17d3f",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Notebook",
+        "description": "Notebook for Supermarket Data Analysis and Visualization",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
+        "git_commit": "5befe6cb5765d639fcbc79f327e613ba6776b0c0",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Basic Python Hands-on Notebook",
+        "description": "Notebook for Basic Python Hands-on Learning",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "basic_python_hands_on_notebook",
+        "categories": [
+            "Education"
+        ],
+        "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
+        "git_commit": "2ae2f3c169471c9296648e1b1884b2886b52d3ab",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Notebook",
+        "description": "Notebook for Covid 2019 Data Analysis and Visualization",
+        "logo": "_images/notebook.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "covid_2019_visualization_notebook",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
+        "git_commit": "46a849430725029bebfa9989d5c1109933bb1e1f",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Flower Classification Data",
+        "description": "Dataset for flower classifications",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "flower_classification_dataset",
+        "categories": [
+            "Health"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
+        "git_commit": "a20536747c662255a1116408fb7436b5558f2e18",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Dataset",
+        "description": "Dataset for Movie Recommendation Engine",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "movie_recommendation_engine_dataset",
+        "categories": [
+            "Movies"
+        ],
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
+        "git_commit": "d16f52d994325f6f6280b8d92e3232c3bc49ea42",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Dataset",
+        "description": "Dataset for Boston House Prediction Evaluation Validation",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
+        "git_commit": "c541f3aad8e9d675408ad50d678ef5861376a163",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Dataset",
+        "description": "Dataset for Supermarket Data Analysis and Visualization",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
+        "git_commit": "443071aa3b650c5845f61edb1354e9f854b64daa",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Dataset",
+        "description": "Dataset for Covid 2019 Data Analysis and Visualization",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "covid_2019_visualization_dataset",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
+        "git_commit": "ec0d12e10fe15595ae8c6e6491bb478da2c3de4a",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Population Dataset",
+        "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "de_catalog_id": "population_dataset",
+        "categories": [
+            "Population"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "git_url": "https://github.com/i-data-explorer/population-dataset.git",
+        "git_commit": "2942673db3e6c99e9a7e4cb0ee5a772ad30b89d9",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)",
+        "description": "The Foundation Medicine Adult Cancer Clinical Dataset (FM-AD) is a study conducted by Foundation Medicine Inc (FMI). Genomic profiling data for approximately 18,000 adult patients with a diverse array of cancers was generated using FoundationeOne, FMI's commercially available, comprehensive genomic profiling assay. This dataset contains open Clinical and Biospecimen data.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "fm-ad-dataset",
+        "categories": [
+            "Health"
+        ],
+        "buckets": [
+            "gdc-fm-ad-phs001179-2-open"
+        ],
+        "git_url": "https://github.com/i-data-explorer/FM-AD-Dataset.git",
+        "git_commit": "b4b680d977dd391a6eb717fa8f392936da6e3c93",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) Dataset",
+        "description": "A global, gap-free, gridded, daily 1 km Sea Surface Temperature (SST) dataset created by merging multiple Level-2 satellite SST datasets. Those input datasets include the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the JAXA Advanced Microwave Scanning Radiometer 2 (AMSR-2) on GCOM-W1, the Moderate Resolution Imaging Spectroradiometers (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer, the Advanced Very High Resolution Radiometer (AVHRR) on several NOAA satellites, and in situ SST observations from the NOAA iQuam project. Data are available from 2002 to present in Zarr format. The original source of the MUR data is the NASA JPL Physical Oceanography DAAC.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "category_label": [
+            "Dataset"
+        ],
+        "de_catalog_id": "mur-sst-dataset",
+        "buckets": [
+            "mur-sst:/zarr",
+            "mur-sst:/zarr-v1"
+        ],
+        "categories": [
+            "Environment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/MUR-SST-dataset.git",
+        "git_commit": "67a878c29a8d31b924513e169016ab8f5a2b08e6",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "COVID-19 Genome Sequence Dataset",
+        "description": "A centralized sequence repository for all strains of novel corona virus (SARS-CoV-2) submitted to the National Center for Biotechnology Information (NCBI). Included are both the original sequences submitted by the principal investigator as well as SRA-processed sequences that require the SRA Toolkit for analysis.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "cgs-dataset",
+        "categories": [
+            "Covid",
+            "Health"
+        ],
+        "buckets": [
+            "sra-pub-sars-cov2",
+            "sra-pub-sars-cov2-metadata-us-east-1"
+        ],
+        "git_url": "https://github.com/i-data-explorer/CGS-dataset.git",
+        "git_commit": "b77bdee5f7c15a07a0505a571dbf897a20582c9b",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Open City Model (OCM) Dataset",
+        "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "ocm-dataset",
+        "categories": [
+            "General",
+            "Housing"
+        ],
+        "buckets": [
+            "opencitymodel"
+        ],
+        "git_url": "https://github.com/i-data-explorer/OCM-dataset.git",
+        "git_commit": "6c2e8b6a094c103beda7ddc912755c5b22ae0ba8",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "US Hiring Rates",
+        "description": "This dataset provides daily updates on the volume of US job listings",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "us-hiring-rates-dataset",
+        "buckets": [
+            "greenwichhr-covidjobimpacts"
+        ],
+        "categories": [
+            "Employment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/us-hiring-rates-s3Dataset.git",
+        "git_commit": "c6e2facf54ba9be285fab1c66d75cd5a541cc10e",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "CCAFS-Climate Data",
+        "description": "High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "ccafs-climate-data-dataset",
+        "buckets": [
+            "cgiardata"
+        ],
+        "categories": [
+            "Climate",
+            "Agriculture"
+        ],
+        "git_url": "https://github.com/i-data-explorer/ccafs-climate-data.git",
+        "git_commit": "95bd9f5b647832b81a96b06947c7cbbfa65ee633",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Landsat 8 Dataset",
+        "description": "An ongoing collection of satellite imagery of all land on Earth produced by the Landsat 8 satellite.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "buckets": [
+            "landsat-pds",
+            "landsat-pds-inventory"
+        ],
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "landsat-8-dataset",
+        "categories": [
+            "Environment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/landsat-8-dataset.git",
+        "git_commit": "9754f0af3ac545c5722ae4a252a739aacd3398f8",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "NOAA National Digital Forecast Database (NDFD) Dataset",
+        "description": "The National Digital Forecast Database (NDFD) is a suite of gridded forecasts of sensible weather elements (e.g., cloud cover, maximum temperature). Forecasts prepared by NWS field offices working in collaboration with the National Centers for Environmental Prediction (NCEP) are combined in the NDFD to create a seamless mosaic of digital forecasts from which operational NWS products are generated.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "noaa-ndfd-dataset",
+        "buckets": [
+            "noaa-ndfd-pds"
+        ],
+        "categories": [
+            "Environment",
+            "Geo Data"
+        ],
+        "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
+        "git_commit": "6719e3255772fb3b24f4e79baf5e0072b9be45a9",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "NOAA Global Hydro Estimator (GHE) Dataset",
+        "description": "Global Hydro-Estimator provides a global mosaic imagery of rainfall estimates from multi-geostationary satellites, which currently includes GOES-16, GOES-15, Meteosat-8, Meteosat-11 and Himawari-8. The GHE products include: Instantaneous rain rate, 1 hour, 3 hour, 6 hour, 24 hour and also multi-day rainfall accumulation.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "de_catalog_id": "noaa-ghe-dataset",
+        "buckets": [
+            "noaa-ghe-pds"
+        ],
+        "categories": [
+            "Environment",
+            "Geo Data"
+        ],
+        "git_url": "https://github.com/i-data-explorer/noaa-ghe-dataset.git",
+        "git_commit": "359f724c058657188d98835d85b0593a76ade425",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "NASA NEX Dataset",
+        "description": "A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface.",
+        "logo": "_images/dataset.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "S3"
+        ],
+        "managed_by": [
+            "Edge"
+        ],
+        "buckets": [
+            "nasanex:/NEX-DCP30",
+            "nasanex:/NEX-GDDP",
+            "nasanex:/LOCA",
+            "nasanex:/MODIS",
+            "nasanex:/Landsat"
+        ],
+        "de_catalog_id": "nasa-nex-dataset",
+        "categories": [
+            "Geo Data",
+            "Environment"
+        ],
+        "git_url": "https://github.com/i-data-explorer/NASA-NEX-Dataset.git",
+        "git_commit": "c0d9a3cda56e7ec840afd52da7cf1ca6253e39fb",
+        "installTime": "2 minutes"
+    }
+]
