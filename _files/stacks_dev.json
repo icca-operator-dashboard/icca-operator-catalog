@@ -204,8 +204,8 @@
         "categories": [
             "Health"
         ],
-        "git_url": "https://github.com/i-data-explorer/flower-classification-datatile.git",
-        "git_commit": "a20536747c662255a1116408fb7436b5558f2e18",
+        "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
+        "git_commit": "f24748001b89a8abe7dfef31063474ef6d17ed94",
         "installTime": "2 minutes"
     },
     {
