@@ -563,7 +563,7 @@
             "Environment",
             "Geo Data"
         ],
-        "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset.git",
+        "git_url": "https://github.com/i-data-explorer/noaa-ndfd-dataset-tile.git",
         "git_commit": "6719e3255772fb3b24f4e79baf5e0072b9be45a9",
         "installTime": "2 minutes"
     },
