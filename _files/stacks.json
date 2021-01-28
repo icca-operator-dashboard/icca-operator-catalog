@@ -43,7 +43,7 @@
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/cancer-dataset-notebook-tile.git",
-        "git_commit": "dbd01402911f8190a918c4fdac9761bcd1c37279",
+        "git_commit": "ddc760ae67084e3eeb0d2bc5ee1c518f9b765e27",
         "installTime": "2 minutes"
     },
     {
@@ -63,7 +63,7 @@
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-        "git_commit": "ffb9a80c07ab9ad049c79e8f4c5d12a881b4f882",
+        "git_commit": "d0478af5398640f7234e1456a48783d7d37af6d8",
         "installTime": "2 minutes"
     },
     {
@@ -83,7 +83,7 @@
             "Edge"
         ],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
-        "git_commit": "6ac9701ae5c67809789fa615bc12e398464a598e",
+        "git_commit": "8c94ecf4e7a8be9db3dff730e0e0eee5c1e36639",
         "installTime": "3 minutes"
     },
     {
@@ -103,7 +103,7 @@
             "Edge"
         ],
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
-        "git_commit": "bc8f663c27e2a75c2ac72fa99baee12fd179b6ce",
+        "git_commit": "804aa74bb2957265510d3c641a6f3872235680f5",
         "installTime": "2 minutes"
     },
     {
@@ -165,7 +165,7 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-        "git_commit": "7a35844b01e6f54dac095da7c3f6e6add5e17d3f",
+        "git_commit": "3a94daee5c6a561ca9b05952d518f7cfd59b00e2",
         "installTime": "3 minutes"
     },
     {
@@ -185,7 +185,7 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-        "git_commit": "5befe6cb5765d639fcbc79f327e613ba6776b0c0",
+        "git_commit": "59640f6bfcc303d862c5697b75285f1327fc65f5",
         "installTime": "3 minutes"
     },
     {
@@ -205,7 +205,7 @@
             "Education"
         ],
         "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
-        "git_commit": "2ae2f3c169471c9296648e1b1884b2886b52d3ab",
+        "git_commit": "5bb5093b7ce0fbcb7aa5cf8e2b01b7d69c50e020",
         "installTime": "2 minutes"
     },
     {
@@ -225,7 +225,7 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
-        "git_commit": "46a849430725029bebfa9989d5c1109933bb1e1f",
+        "git_commit": "5b93f8eefb525e6a45daa181bcd438328008ea82",
         "installTime": "3 minutes"
     },
     {
