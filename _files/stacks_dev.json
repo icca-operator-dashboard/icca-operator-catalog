@@ -57,7 +57,7 @@
         "tag": [],
         "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
-        "git_commit": "5b0fddff370ca4c742c96410fb0e809700ad047a",
+        "git_commit": "3c8380d837e33b339de30ff1c73c725779ba723c",
         "installTime": "3 minutes"
     },
     {
