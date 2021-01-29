@@ -75,7 +75,7 @@
         "tag": [],
         "managed_by": ["Edge"],
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
-        "git_commit": "1a442d0d0245bf648836d41c0a605fb6b0c07756",
+        "git_commit": "c41fc0720e26efe78aec6737bb81777995cebfec",
         "installTime": "2 minutes"
     },
     {
