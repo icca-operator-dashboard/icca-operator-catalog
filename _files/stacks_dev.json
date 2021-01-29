@@ -26,7 +26,7 @@
     },
     {
         "title": "Flower Classification Notebook",
-        "description": "Notebook for flower classifications",
+        "description": "Notebook for classification of Iris flower",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -44,7 +44,7 @@
     },
     {
         "title": "Movie Recommendation Engine Notebook",
-        "description": "Notebook for Movie Recommendation Engine",
+        "description": "Notebook for a Movie Recommendation Engine",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -62,7 +62,7 @@
     },
     {
         "title": "Predict Wine Quality Notebook",
-        "description": "Notebook to Predict Wine Quality Notebook",
+        "description": "Notebook to Predict Wine Quality",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -80,7 +80,7 @@
     },
     {
         "title": "IPython Notebook Collection",
-        "description": "A collection of IPython notebooks covering various topics",
+        "description": "A collection of IPython notebooks covering various python topics",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -118,7 +118,7 @@
     },
     {
         "title": "Boston House Prediction Evaluation Validation Notebook",
-        "description": "Notebook for Boston House Prediction Evaluation Validation",
+        "description": "Notebook to predict Median House prices in Boston",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -136,7 +136,7 @@
     },
     {
         "title": "Supermarket Data Analysis and Visualization Notebook",
-        "description": "Notebook for Supermarket Data Analysis and Visualization",
+        "description": "Notebook to Analyse sales in a supermarket",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -172,7 +172,7 @@
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Notebook",
-        "description": "Notebook for Covid 2019 Data Analysis and Visualization",
+        "description": "Notebook to analyse Covid-19 infection around the world",
         "logo": "_images/notebook.png",
         "enabled": true,
         "category_label": [
@@ -190,7 +190,7 @@
     },
     {
         "title": "Flower Classification Data",
-        "description": "Dataset for flower classifications",
+        "description": "Dataset for flower classifications (Iris Dataset)",
         "logo": "_images/dataset.png",
         "enabled": true,
         "category_label": [
@@ -210,7 +210,7 @@
     },
     {
         "title": "Movie Recommendation Engine Dataset",
-        "description": "Dataset for Movie Recommendation Engine",
+        "description": "Dataset for Movie Recommendation Engine (MovieLens)",
         "logo": "_images/dataset.png",
         "enabled": true,
         "category_label": [
@@ -250,7 +250,7 @@
     },
     {
         "title": "Supermarket Data Analysis and Visualization Dataset",
-        "description": "Dataset for Supermarket Data Analysis and Visualization",
+        "description": "Dataset for sales in Supermarket",
         "logo": "_images/dataset.png",
         "enabled": true,
         "category_label": [
@@ -270,7 +270,7 @@
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Dataset",
-        "description": "Dataset for Covid 2019 Data Analysis and Visualization",
+        "description": "Dataset for Covid-19 infection",
         "logo": "_images/dataset.png",
         "enabled": true,
         "category_label": [
