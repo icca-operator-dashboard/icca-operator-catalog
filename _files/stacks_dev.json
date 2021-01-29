@@ -16,6 +16,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "has_api": false,
         "has_dataset": false,
         "is_certified": true,
@@ -34,6 +37,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "flower_classification_notebook",
         "categories": [
             "Environment"
@@ -56,6 +62,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
         "git_commit": "3c8380d837e33b339de30ff1c73c725779ba723c",
         "installTime": "3 minutes"
@@ -74,6 +83,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
         "git_commit": "c41fc0720e26efe78aec6737bb81777995cebfec",
         "installTime": "2 minutes"
@@ -93,6 +105,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
         "git_commit": "158eaf1a9b895781679b0bbe5cf2363f20aabe94",
         "installTime": "2 minutes"
@@ -112,6 +127,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
         "git_commit": "770d347a7bf91e14d034963229d71edf956b9a65",
         "installTime": "2 minutes"
@@ -126,6 +144,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
         "categories": [
             "Real Estate"
@@ -144,6 +165,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
         "categories": [
             "Groceries"
@@ -162,6 +186,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "basic_python_hands_on_notebook",
         "categories": [
             "Education"
@@ -180,6 +207,9 @@
         ],
         "tag": [],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "covid_2019_visualization_notebook",
         "categories": [
             "Covid"
@@ -200,6 +230,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "flower_classification_dataset",
         "categories": [
             "Health"
@@ -220,6 +253,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "movie_recommendation_engine_dataset",
         "categories": [
             "Movies"
@@ -240,6 +276,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
         "categories": [
             "Real Estate"
@@ -260,6 +299,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
         "categories": [
             "Groceries"
@@ -280,6 +322,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "de_catalog_id": "covid_2019_visualization_dataset",
         "categories": [
             "Covid"
@@ -304,6 +349,9 @@
             "CSV"
         ],
         "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/population-dataset.git",
         "git_commit": "2942673db3e6c99e9a7e4cb0ee5a772ad30b89d9",
         "installTime": "2 minutes"
