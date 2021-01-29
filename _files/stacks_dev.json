@@ -238,7 +238,7 @@
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
-        "git_commit": "d0478af5398640f7234e1456a48783d7d37af6d8",
+        "git_commit": "5130192951e2ae41fa3d3c3e07b1dbebccb1f5d1",
         "installTime": "2 minutes"
     },
     {
@@ -261,7 +261,7 @@
             "Movies"
         ],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
-        "git_commit": "d16f52d994325f6f6280b8d92e3232c3bc49ea42",
+        "git_commit": "a3370dc4a3f2c7c4abfd067a49c2568840c7915e",
         "installTime": "3 minutes"
     },
     {
@@ -284,7 +284,7 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
-        "git_commit": "c541f3aad8e9d675408ad50d678ef5861376a163",
+        "git_commit": "3831dae876f48b3d279cdd39082bebe5440d52ec",
         "installTime": "3 minutes"
     },
     {
@@ -307,7 +307,7 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-        "git_commit": "443071aa3b650c5845f61edb1354e9f854b64daa",
+        "git_commit": "b743595bd194917407d5a66f03bb8840b868c785",
         "installTime": "3 minutes"
     },
     {
@@ -330,7 +330,7 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
-        "git_commit": "ec0d12e10fe15595ae8c6e6491bb478da2c3de4a",
+        "git_commit": "c8ae8debf80ca33ba4a403e39f03a9f80de02e25",
         "installTime": "3 minutes"
     },
     {
@@ -353,7 +353,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-        "git_commit": "2942673db3e6c99e9a7e4cb0ee5a772ad30b89d9",
+        "git_commit": "d02da099eb8af320ad822d850d9c93f82c87a2c8",
         "installTime": "2 minutes"
     }
 ]
