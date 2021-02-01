@@ -2,7 +2,7 @@
     {
         "title": "My first notebook",
         "description": "User guide",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -24,13 +24,13 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
-        "git_commit": "f857d81fd03c5de79841e67ebc353184beb7aa48",
+        "git_commit": "aa6623b3e45ed6a039d0b5d55c0ee3bc37f6c837",
         "installTime": "2 minutes"
     },
     {
         "title": "Flower Classification Notebook",
         "description": "Notebook for classification of Iris flower",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -45,13 +45,13 @@
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-        "git_commit": "375e15bcb3290a9176fc265567863ef6a7bada22",
+        "git_commit": "8f5d91621e6ab0488c2822f30d7ad92da1ac6496",
         "installTime": "2 minutes"
     },
     {
         "title": "Movie Recommendation Engine Notebook",
         "description": "Notebook for a Movie Recommendation Engine",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -66,13 +66,13 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
-        "git_commit": "3c8380d837e33b339de30ff1c73c725779ba723c",
+        "git_commit": "26b9d1a97448502fcdff65a09bee01de0dd1f66b",
         "installTime": "3 minutes"
     },
     {
         "title": "Predict Wine Quality Notebook",
         "description": "Notebook to Predict Wine Quality",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -87,13 +87,13 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
-        "git_commit": "c41fc0720e26efe78aec6737bb81777995cebfec",
+        "git_commit": "b9dadb46ab4e969de95ad9e50d88743c07293b13",
         "installTime": "2 minutes"
     },
     {
         "title": "IPython Notebook Collection",
         "description": "A collection of IPython notebooks covering various python topics",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -109,13 +109,13 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
-        "git_commit": "158eaf1a9b895781679b0bbe5cf2363f20aabe94",
+        "git_commit": "c888b6fd7a2a35231d34111e80ed744a888d80f7",
         "installTime": "2 minutes"
     },
     {
         "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
         "description": "The Python Machine Learning (3rd edition) notebook collection",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -131,13 +131,13 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
-        "git_commit": "770d347a7bf91e14d034963229d71edf956b9a65",
+        "git_commit": "3dfc60d1233600942b2ce65fcb3db163a4f510ef",
         "installTime": "2 minutes"
     },
     {
         "title": "Boston House Prediction Evaluation Validation Notebook",
         "description": "Notebook to predict Median House prices in Boston",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -152,13 +152,13 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-        "git_commit": "685e5566c68d2cc3420bb0739fe8f9b39239e783",
+        "git_commit": "70654e63b482cb8dba8dfa97107986966c837ef5",
         "installTime": "3 minutes"
     },
     {
         "title": "Supermarket Data Analysis and Visualization Notebook",
         "description": "Notebook to Analyse sales in a supermarket",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -173,13 +173,13 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-        "git_commit": "3843286fc9504e06b5b5af3cf00ef95b8835bd5f",
+        "git_commit": "a3aca00d2f49348c367b5e1dca55a9139ea1d622",
         "installTime": "3 minutes"
     },
     {
         "title": "Basic Python Hands-on Notebook",
         "description": "Notebook for Basic Python Hands-on Learning",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -194,13 +194,13 @@
             "Education"
         ],
         "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
-        "git_commit": "a0a4f180b3fb006c8c779596e71cdd3d662a1af9",
+        "git_commit": "2e0985870b1012bd1ee938b10593d262803bd505",
         "installTime": "2 minutes"
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Notebook",
         "description": "Notebook to analyse Covid-19 infection around the world",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
@@ -215,13 +215,13 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
-        "git_commit": "b22042bf33825201d401a84664a328dbc785195f",
+        "git_commit": "daa784c4180ce521fe98e2a9d97c09521415e74d",
         "installTime": "3 minutes"
     },
     {
         "title": "Flower Classification Data",
         "description": "Dataset for flower classifications (Iris Dataset)",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -238,13 +238,13 @@
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
-        "git_commit": "5130192951e2ae41fa3d3c3e07b1dbebccb1f5d1",
+        "git_commit": "01531c435289af0fdb326fd5f28889206d2f6218",
         "installTime": "2 minutes"
     },
     {
         "title": "Movie Recommendation Engine Dataset",
         "description": "Dataset for Movie Recommendation Engine (MovieLens)",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -261,13 +261,13 @@
             "Movies"
         ],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
-        "git_commit": "a3370dc4a3f2c7c4abfd067a49c2568840c7915e",
+        "git_commit": "cd06428785d0d9d81c802d749a5dc92c6970c542",
         "installTime": "3 minutes"
     },
     {
         "title": "Boston House Prediction Evaluation Validation Dataset",
         "description": "Dataset for Boston House Prediction Evaluation Validation",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -284,13 +284,13 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
-        "git_commit": "3831dae876f48b3d279cdd39082bebe5440d52ec",
+        "git_commit": "c08f6258c21fb21586f7ea780925c1369439ed61",
         "installTime": "3 minutes"
     },
     {
         "title": "Supermarket Data Analysis and Visualization Dataset",
         "description": "Dataset for sales in Supermarket",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -307,13 +307,13 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-        "git_commit": "b743595bd194917407d5a66f03bb8840b868c785",
+        "git_commit": "479ea63d8e88bfda6d38ce1e69aa122f22a4c8b3",
         "installTime": "3 minutes"
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Dataset",
         "description": "Dataset for Covid-19 infection",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -330,13 +330,13 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
-        "git_commit": "c8ae8debf80ca33ba4a403e39f03a9f80de02e25",
+        "git_commit": "fb045b283c8dde69a4cf9b769cc19c973851699e",
         "installTime": "3 minutes"
     },
     {
         "title": "Population Dataset",
         "description": "Population figures for countries, regions (e.g. Asia) and the world.",
-        "logo": "_images/dataset.png",
+        "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
             "Dataset"
@@ -353,7 +353,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-        "git_commit": "d02da099eb8af320ad822d850d9c93f82c87a2c8",
+        "git_commit": "1be3fac7584d6f5ef8e3c81577c5685709495e35",
         "installTime": "2 minutes"
     }
 ]
