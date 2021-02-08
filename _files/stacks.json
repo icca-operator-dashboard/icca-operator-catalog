@@ -2,7 +2,7 @@
     {
         "title": "My first notebook",
         "description": "User guide",
-        "logo": "_images/notebook.png",
+        "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Notebook"
