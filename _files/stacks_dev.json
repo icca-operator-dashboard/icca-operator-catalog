@@ -1,7 +1,7 @@
 [
     {
         "title": "My first notebook",
-        "description": "User guide",
+        "description": "A User guide with instructions to manage notebooks in Jupyterlabs 3.0",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
