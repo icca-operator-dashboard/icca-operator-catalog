@@ -50,7 +50,7 @@
     },
     {
         "title": "Movie Recommendation Engine Notebook",
-        "description": "Do you fancy motion pictures? Obviously you do, so how about building a movie recommendation engine in that case? It involves matching existing movie ratings of user profiles from the movieLens dataset, using the K Nearest Neighbor (KNN) Model to recommend unseen movies.
+        "description": "Do you fancy motion pictures? Obviously you do, so how about building a movie recommendation engine in that case? It involves matching existing movie ratings of user profiles from the movieLens dataset, using the K Nearest Neighbor (KNN) Model to recommend unseen movies.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
