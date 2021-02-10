@@ -29,7 +29,7 @@
     },
     {
         "title": "Flower Classification Notebook",
-        "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning. The task involves predicting the subspecies of Genus Iris using features such a petal length and width. This notebooks performs just that, the analysis and classification of the Iris Flower samples.",
+        "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning. The task involves predicting the Species of Genus Iris using features such a petal length and width. This notebooks performs just that, the analysis and classification of the Iris Flower samples.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
