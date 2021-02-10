@@ -92,7 +92,7 @@
     },
     {
         "title": "IPython Notebook Collection",
-        "description": "A collection of IPython notebooks covering various python topics, particularly focussed on data science. Regardless of familiarity with big names like Andrew Ng and Jeremy Howard, this notebook collection is recommended for every data dcience enthusiast. Have fun learning.",
+        "description": "A collection of IPython notebooks covering various python topics, particularly focused on data science. Regardless of familiarity with big names like Andrew Ng and Jeremy Howard, this notebook collection is recommended for every data science enthusiast. Have fun learning!",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -114,7 +114,7 @@
     },
     {
         "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
-        "description": "This collection of notebooks consists of code examples which compliments the Book, 'Python Machine Learning, 3rd Ed' authored by Raschka, Sebastian, and Vahid Mirjalili. As the name suggests, the notebooks pertain to machine learning including some advanced concepts like Convolution Neural Networks and Recurrent Networks. The contents might seem incomprehensible without the book itself.",
+        "description": "This collection of notebooks consists of code examples from the Book, 'Python Machine Learning, 3rd Ed' authored by Raschka, Sebastian, and Vahid Mirjalili. As the name suggests, the notebooks pertain to machine learning including some advanced concepts like Convolution Neural Networks and Recurrent Networks. The contents might seem incomprehensible without the book itself.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -220,7 +220,7 @@
     },
     {
         "title": "Flower Classification Data",
-        "description": "The dataset contains descriptive features of the flowers of Genus Iris, along with the name of the species. It is a very popular dataset in the field of Machine learning is often the first dataset used by beginners. It is a classic in the field and is referenced frequently to this day.",
+        "description": "The dataset contains descriptive features of the flowers of Genus Iris, along with the name of the species. It is a very popular dataset in the field of Machine learning and is often the first dataset used by beginners. It is a classic and is referenced frequently to this day.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
