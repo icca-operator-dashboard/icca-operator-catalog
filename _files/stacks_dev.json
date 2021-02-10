@@ -289,7 +289,7 @@
     },
     {
         "title": "Supermarket Data Analysis and Visualization Dataset",
-        "description": "Dataset for sales in Supermarket",
+        "description": "The sales data of a super market which includes the logs of all items sold, with dates and user id. This dataset offers the potential to perform extensive analysis on the products being sold, the sales trends as well specific customer purchase patterns",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
