@@ -71,7 +71,7 @@
     },
     {
         "title": "Predict Wine Quality Notebook",
-        "description": "Notebook to Predict Wine Quality",
+        "description": "Good wine from the Medeterranian is manadatory for a definitive fine-dining experience. The chemical composition of wine, which accounts for 15% of the total Portuguese production is analysed and a regression model is created to predict the quality of Wine on a scale from 1-10.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
