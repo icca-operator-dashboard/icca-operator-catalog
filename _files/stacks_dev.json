@@ -312,7 +312,7 @@
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Dataset",
-        "description": "Dataset for Covid-19 infection",
+        "description": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first case was identified in Wuhan, China, in December 2019. It has since spread worldwide, leading to a pandemic. The dataset consists of infections, deaths and recovery counts from all over the world, tracked on a daily basis and shared by the John Hopkins University.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
@@ -335,7 +335,7 @@
     },
     {
         "title": "Population Dataset",
-        "description": "Population figures for countries, regions (e.g. Asia) and the world.",
+        "description": "Population figures for countries, regions (e.g. Asia) and the world based on the census information released by the respective countries. The value of the dataset lies in visual analysis and reporting of population trends. Additionally, this dataset can be used in conjunctions with analysis / predictions which require population data.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
