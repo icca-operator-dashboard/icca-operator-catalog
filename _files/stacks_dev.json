@@ -29,7 +29,7 @@
     },
     {
         "title": "Flower Classification Notebook",
-        "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning. The task involves predicting the Species of Genus Iris using features such a petal length and width. This notebooks performs just that, the analysis and classification of the Iris Flower samples.",
+        "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning, involves predicting the Species of the flowers of Genus Iris, using numerical features such a petal length and width. This notebook performs just that, the analysis and classification of the Iris Flower samples.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -50,7 +50,7 @@
     },
     {
         "title": "Movie Recommendation Engine Notebook",
-        "description": "Notebook for a Movie Recommendation Engine",
+        "description": "Do you fancy motion pictures? Obviously you do, so how about building a movie recommendation engine in that case? It involves matching existing movie ratings of user profiles from the movieLens dataset, using the K Nearest Neighbor (KNN) Model to recommend unseen movies.
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -92,7 +92,7 @@
     },
     {
         "title": "IPython Notebook Collection",
-        "description": "A collection of IPython notebooks covering various python topics",
+        "description": "A collection of IPython notebooks covering various python topics, particularly focussed on data science. Regardless of familiarity with big names like Andrew Ng and Jeremy Howard, this notebook collection is recommended for every data dcience enthusiast. Have fun learning.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -114,7 +114,7 @@
     },
     {
         "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
-        "description": "The Python Machine Learning (3rd edition) notebook collection",
+        "description": "This collection of notebooks consists of code examples which compliments the Book, 'Python Machine Learning, 3rd Ed' authored by Raschka, Sebastian, and Vahid Mirjalili. As the name suggests, the notebooks pertain to machine learning including some advanced concepts like Convolution Neural Networks and Recurrent Networks. The contents might seem incomprehensible without the book itself.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -136,7 +136,7 @@
     },
     {
         "title": "Boston House Prediction Evaluation Validation Notebook",
-        "description": "Notebook to predict Median House prices in Boston",
+        "description": "The price of a house is determined significantly by the surrounding/locality. The notebook uses the popular Boston housing dataset to create a random forest regressor which predicts the Median House Price using features such as crime, parent-teacher ratio, median age etc.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -157,7 +157,7 @@
     },
     {
         "title": "Supermarket Data Analysis and Visualization Notebook",
-        "description": "Notebook to Analyse sales in a supermarket",
+        "description": "This notebooks performs an analysis of the sales data in a supermarket. It creates inforgraphics, allowing us to derive insights from the data, potentially boosting profit and reducing losses. Enabling the supermarket to do what it is meant to do, satisfy customers!",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -178,7 +178,7 @@
     },
     {
         "title": "Basic Python Hands-on Notebook",
-        "description": "Notebook for Basic Python Hands-on Learning",
+        "description": "An introductory material for learning Python. Python is the arguably the preferred language for data science and machine learning. Everything about the python language necessary for machine learning is covered with executable examples",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -199,7 +199,7 @@
     },
     {
         "title": "Covid 2019 Data Analysis and Visualization Notebook",
-        "description": "Notebook to analyse Covid-19 infection around the world",
+        "description": "Covid-19, the viral abomination is analysed in this Notebook. It uses Covid-19 dataset released by John Hopkins university to analyse Covid-19 infection around the world answering questions about trends, vulnerable countries and infection & death rates using infographics",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -220,7 +220,7 @@
     },
     {
         "title": "Flower Classification Data",
-        "description": "Dataset for flower classifications (Iris Dataset)",
+        "description": "The dataset contains descriptive features of the flowers of Genus Iris, along with the name of the species. It is a very popular dataset in the field of Machine learning is often the first dataset used by beginners. It is a classic in the field and is referenced frequently to this day.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
@@ -243,7 +243,7 @@
     },
     {
         "title": "Movie Recommendation Engine Dataset",
-        "description": "Dataset for Movie Recommendation Engine (MovieLens)",
+        "description": "This dataset has its origins in MovieLens, and consists of a list of movies and ratings for these movies by different users. It is perfect for creating a fun movie recommendation engine, and the dataset can be subject of further exploratory analysis as well, determining patterns in movies watched.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
@@ -266,7 +266,7 @@
     },
     {
         "title": "Boston House Prediction Evaluation Validation Dataset",
-        "description": "Dataset for Boston House Prediction Evaluation Validation",
+        "description": "This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive, and has been used extensively throughout the literature to benchmark algorithms. Originally this algorithm was used to determine predict the median house price and the nitrous oxide levels in a locality.",
         "logo": "_images/dataset-1.png",
         "enabled": true,
         "category_label": [
