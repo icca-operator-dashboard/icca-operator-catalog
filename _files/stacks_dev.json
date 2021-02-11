@@ -24,7 +24,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
-        "git_commit": "58d431220142648225f454a4d1fe05aec36c3a51",
+        "git_commit": "f16ef96aac9cdfec9986bd91fd4f63f5cbdbb8a3",
         "installTime": "2 minutes"
     },
     {
@@ -238,7 +238,7 @@
             "Health"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
-        "git_commit": "0bc53e4358163fd2f9f85c98af20c66f46d08220",
+        "git_commit": "a1a92555709cf20aebc07f04f80e9292df6c22f8",
         "installTime": "2 minutes"
     },
     {
@@ -261,7 +261,7 @@
             "Movies"
         ],
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
-        "git_commit": "418603328dccb12268d1e81608600f86dc958fef",
+        "git_commit": "6127c7a53cd9f0e1d54ca4ee574d5f711b626880",
         "installTime": "3 minutes"
     },
     {
@@ -284,7 +284,7 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
-        "git_commit": "d12516bd4e11c8a5b67e391857271bbbf4fdada1",
+        "git_commit": "f5618abc5bcf7251a108f4a435b228267b5b79c0",
         "installTime": "3 minutes"
     },
     {
@@ -307,7 +307,7 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
-        "git_commit": "4171d4a07fb863c7bd177f093ce0d87391ebaa4d",
+        "git_commit": "c4dbbabbd116a7d5912e6ad62e873aaaa951111e",
         "installTime": "3 minutes"
     },
     {
@@ -330,7 +330,7 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
-        "git_commit": "f998e8c18d350e8f27d29a78ff1a5222effc7818",
+        "git_commit": "3e3aef6aaa682c714f1945389731c267c2f9deee",
         "installTime": "3 minutes"
     },
     {
@@ -353,7 +353,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/population-dataset.git",
-        "git_commit": "d6fb5f61c281cc91e8107e8d47e076e4f8520d1c",
+        "git_commit": "455d219eb114f7ced3d71bcac1fcd58c926359e7",
         "installTime": "2 minutes"
     }
 ]
