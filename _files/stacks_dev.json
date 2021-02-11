@@ -45,7 +45,7 @@
             "Environment"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-        "git_commit": "e710209e6f41c275886747853e43631080b8dc90",
+        "git_commit": "d676057cbc1dfb903dca0e915d7b342c4b321b7d",
         "installTime": "2 minutes"
     },
     {
@@ -66,7 +66,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
-        "git_commit": "b566dfa4eecd9c7dadf72b76bf3555570bb23eb2",
+        "git_commit": "a4068c8952341869f9866ea10c9908abb8d3785c",
         "installTime": "3 minutes"
     },
     {
@@ -87,7 +87,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
-        "git_commit": "04939e66b2c8a3c18e8b97e7197474e860818ec3",
+        "git_commit": "8ecb21b4ea73997d4205f78888aa1809f0298c9b",
         "installTime": "2 minutes"
     },
     {
@@ -109,7 +109,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
-        "git_commit": "e5b4747417b174552a357a2ba97d92aa214d1c8e",
+        "git_commit": "c62abc02d0ecea530fcf240ac85814a3e8a648ad",
         "installTime": "2 minutes"
     },
     {
@@ -152,7 +152,7 @@
             "Real Estate"
         ],
         "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
-        "git_commit": "29b633716510e9c377ccb09721d05d637cbdcab3",
+        "git_commit": "9e406005f70348c9a21ce825e3ca976b403eada8",
         "installTime": "3 minutes"
     },
     {
@@ -173,7 +173,7 @@
             "Groceries"
         ],
         "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
-        "git_commit": "a3071fe2d999cacb45762bce268bbf7958280ee4",
+        "git_commit": "cabf3e9a72a341985b0129a445b6c435960d887b",
         "installTime": "3 minutes"
     },
     {
@@ -215,7 +215,7 @@
             "Covid"
         ],
         "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
-        "git_commit": "7fd653e16a6caf40341f134f488c01181723a77d",
+        "git_commit": "b33b0f92577e8cbcb9911ef3951051fe6a0d302f",
         "installTime": "3 minutes"
     },
     {
