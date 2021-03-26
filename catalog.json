@@ -23,6 +23,7 @@
       "stacks":"_files/stacks.json",
       "stacks_dev":"_files/stacks_dev.json",
       "how_to":"_files/how_to.md",
+      "how_to_ami":"_files/how_to_ami.md",
       "appLayout":"accordion",
       "appTheme":"g90",
       "footer":"__private/footer.md"
