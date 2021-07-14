@@ -28,6 +28,34 @@
         "installTime": "2 minutes"
     },
     {
+        "title": "Data Science Collection",
+        "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "document": "",
+        "stack_id": "data_science_collection",
+        "de_catalog_id": "data_science_collection",
+        "type": "Notebook",
+        "categories": [
+            "Education"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "has_api": false,
+        "has_dataset": false,
+        "is_certified": true,
+        "has_support": true,
+        "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
+        "git_commit": "df5f217ad13e577985fdd7ff1937708f20e0f105",
+        "installTime": "2 minutes"
+    },
+    {
         "title": "Flower Classification Notebook",
         "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning, involves predicting the Species of the flowers of Genus Iris, using numerical features such a petal length and width. This notebook performs just that, the analysis and classification of the Iris Flower samples.",
         "logo": "_images/notebook-1.png",
