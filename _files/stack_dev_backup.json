@@ -1,0 +1,387 @@
+[
+    {
+        "title": "My first notebook",
+        "description": "Haven't used JupyterLab 3.0 before? \n\n Then this notebook can help. A succint user guide with instructions to manage notebooks in Jupyterlabs 3.0",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "document": "",
+        "stack_id": "My_first_notebook_notebook_1609928816737",
+        "de_catalog_id": "My_first_notebook_notebook_1609928816737",
+        "type": "Notebook",
+        "categories": [
+            "Tutorial"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "has_api": false,
+        "has_dataset": false,
+        "is_certified": true,
+        "has_support": true,
+        "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
+        "git_commit": "f16ef96aac9cdfec9986bd91fd4f63f5cbdbb8a3",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Data Science Collection",
+        "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "document": "",
+        "stack_id": "data_science_collection",
+        "de_catalog_id": "data_science_collection",
+        "type": "Notebook",
+        "categories": [
+            "Education"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "has_api": false,
+        "has_dataset": false,
+        "is_certified": true,
+        "has_support": true,
+        "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
+        "git_commit": "5aa9d0b377d936220e22c4cb6493772b72a58cba",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Flower Classification Notebook",
+        "description": "The classification of Iris dataset, essentially the 'Hello World' of Machine Learning, involves predicting the Species of the flowers of Genus Iris, using numerical features such a petal length and width. This notebook performs just that, the analysis and classification of the Iris Flower samples.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "flower_classification_notebook",
+        "categories": [
+            "General"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
+        "git_commit": "5f0580709261ece761680cf2303f0107ec0a0dd6",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Notebook",
+        "description": "Do you fancy motion pictures? Obviously you do, so how about building a movie recommendation engine in that case? It involves matching existing movie ratings of user profiles from the movieLens dataset, using the K Nearest Neighbor (KNN) Model to recommend unseen movies.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "movie_recommendation_engine_notebook",
+        "categories": [
+            "Movies"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-notebook-tile.git",
+        "git_commit": "a4068c8952341869f9866ea10c9908abb8d3785c",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Predict Wine Quality Notebook",
+        "description": "Good wine from the Medeterranian is manadatory for a definitive fine-dining experience. The chemical composition of wine, which accounts for 15% of the total Portuguese production is analysed and a regression model is created to predict the quality of Wine on a scale from 1-10.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "predict_wine_quality_notebook",
+        "categories": [
+            "Food"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "git_url": "https://github.com/i-data-explorer/predict-wine-quality-notebook-tile.git",
+        "git_commit": "8ecb21b4ea73997d4205f78888aa1809f0298c9b",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "IPython Notebook Collection",
+        "description": "A collection of IPython notebooks covering various python topics, particularly focused on data science. Regardless of familiarity with big names like Andrew Ng and Jeremy Howard, this notebook collection is recommended for every data science enthusiast. Have fun learning!",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "ipython_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "git_url": "https://github.com/i-data-explorer/ipython-notebook-collection-tile.git",
+        "git_commit": "c62abc02d0ecea530fcf240ac85814a3e8a648ad",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Python Machine Learning (3rd Ed.) Notebook Collection",
+        "description": "This collection of notebooks consists of code examples from the Book, 'Python Machine Learning, 3rd Ed' authored by Raschka, Sebastian, and Vahid Mirjalili. As the name suggests, the notebooks pertain to machine learning including some advanced concepts like Convolution Neural Networks and Recurrent Networks. The contents might seem incomprehensible without the book itself.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "de_catalog_id": "python_machine_learning_notebook_collection",
+        "categories": [
+            "Education",
+            "Machine Learning"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "git_url": "https://github.com/i-data-explorer/python-machine-learning-notebook-collection-tile.git",
+        "git_commit": "97e9464ab29b743f35fc4d848cf5e1010fdfd108",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Notebook",
+        "description": "The price of a house is determined significantly by the surrounding/locality. The notebook uses the popular Boston housing dataset to create a random forest regressor which predicts the Median House Price using features such as crime, parent-teacher ratio, median age etc.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook-tile",
+        "git_commit": "9e406005f70348c9a21ce825e3ca976b403eada8",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Notebook",
+        "description": "This notebooks performs an analysis of the sales data in a supermarket. It creates inforgraphics, allowing us to derive insights from the data, potentially boosting profit and reducing losses. Enabling the supermarket to do what it is meant to do, satisfy customers!",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_notebook",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-notebook-tile.git",
+        "git_commit": "cabf3e9a72a341985b0129a445b6c435960d887b",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Basic Python Hands-on Notebook",
+        "description": "An introductory material for learning Python. Python is the arguably the preferred language for data science and machine learning. Everything about the python language necessary for machine learning is covered with executable examples",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "basic_python_hands_on_notebook",
+        "categories": [
+            "Education"
+        ],
+        "git_url": "https://github.com/i-data-explorer/basic-python-hands-on-notebook-tile.git",
+        "git_commit": "b032974e351bfeb457f3db206f97ce2dae74ac12",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Notebook",
+        "description": "Covid-19, the viral abomination is analysed in this Notebook. It uses Covid-19 dataset released by John Hopkins university to analyse Covid-19 infection around the world answering questions about trends, vulnerable countries and infection & death rates using infographics",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Notebook"
+        ],
+        "tag": [],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "covid_2019_visualization_notebook",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-notebook-tile.git",
+        "git_commit": "b33b0f92577e8cbcb9911ef3951051fe6a0d302f",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Flower Classification Data",
+        "description": "The dataset contains descriptive features of the flowers of Genus Iris, along with the name of the species. It is a very popular dataset in the field of Machine learning and is often the first dataset used by beginners. It is a classic and is referenced frequently to this day.",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "flower_classification_dataset",
+        "categories": [
+            "General"
+        ],
+        "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
+        "git_commit": "4841aea5f97aebdf33ec5a6f977bf4950662aad6",
+        "installTime": "2 minutes"
+    },
+    {
+        "title": "Movie Recommendation Engine Dataset",
+        "description": "This dataset has its origins in MovieLens, and consists of a list of movies and ratings for these movies by different users. It is perfect for creating a fun movie recommendation engine, and the dataset can be subject of further exploratory analysis as well, determining patterns in movies watched.",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "movie_recommendation_engine_dataset",
+        "categories": [
+            "Movies"
+        ],
+        "git_url": "https://github.com/i-data-explorer/movie-recommendation-engine-dataset-tile.git",
+        "git_commit": "6127c7a53cd9f0e1d54ca4ee574d5f711b626880",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Boston House Prediction Evaluation Validation Dataset",
+        "description": "This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive, and has been used extensively throughout the literature to benchmark algorithms. Originally this algorithm was used to determine predict the median house price and the nitrous oxide levels in a locality.",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "boston_house_prediction_evaluation_validation_dataset",
+        "categories": [
+            "Real Estate"
+        ],
+        "git_url": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-dataset-tile",
+        "git_commit": "f5618abc5bcf7251a108f4a435b228267b5b79c0",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Supermarket Data Analysis and Visualization Dataset",
+        "description": "The sales data of a super market which includes the logs of all items sold, with dates and user id. This dataset offers the potential to perform extensive analysis on the products being sold, the sales trends as well specific customer purchase patterns",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "supermarket_data_analysis_and_visualization_dataset",
+        "categories": [
+            "Groceries"
+        ],
+        "git_url": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset-tile.git",
+        "git_commit": "c4dbbabbd116a7d5912e6ad62e873aaaa951111e",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Covid 2019 Data Analysis and Visualization Dataset",
+        "description": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first case was identified in Wuhan, China, in December 2019. It has since spread worldwide, leading to a pandemic. The dataset consists of infections, deaths and recovery counts from all over the world, tracked on a daily basis and shared by the John Hopkins University.",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "de_catalog_id": "covid_2019_visualization_dataset",
+        "categories": [
+            "Covid"
+        ],
+        "git_url": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset-tile.git",
+        "git_commit": "9102d71f789c134443e02adf49ed2c7c033f6622",
+        "installTime": "3 minutes"
+    },
+    {
+        "title": "Population Dataset",
+        "description": "Population figures for countries, regions (e.g. Asia) and the world based on the census information released by the respective countries. The value of the dataset lies in visual analysis and reporting of population trends. Additionally, this dataset can be used in conjunctions with analysis / predictions which require population data.",
+        "logo": "_images/dataset-1.png",
+        "enabled": true,
+        "category_label": [
+            "Dataset"
+        ],
+        "de_catalog_id": "population_dataset",
+        "categories": [
+            "Population"
+        ],
+        "tag": [
+            "CSV"
+        ],
+        "managed_by": ["Edge"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "git_url": "https://github.com/i-data-explorer/population-dataset.git",
+        "git_commit": "455d219eb114f7ced3d71bcac1fcd58c926359e7",
+        "installTime": "2 minutes"
+    }
+]
