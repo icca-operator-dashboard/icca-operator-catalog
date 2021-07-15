@@ -28,7 +28,7 @@
         "installTime": "2 minutes"
     },
     {
-        "title": "Le Man's Data Science 101",
+        "title": "Le Mans Data Science 101",
         "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
@@ -52,12 +52,12 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
-        "git_commit": "460cd7f7dbea422e75352f3d6fb2aa1e8893ecb1",
+        "git_commit": "a108e1c8c72957177c3786312bb0d52d6413387b",
         "installTime": "2 minutes"
     },
 	{
-        "title": "Lehman's Challenge",
-        "description": "Lehman's Challenge",
+        "title": "Le Mans Challenge",
+        "description": "Le Mans Challenge",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -80,7 +80,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/lehman-challenge-tile.git",   
-        "git_commit": "12e9ef33f2677480c16627d86723352c4c88f6f7",
+        "git_commit": "62bfb005f51b885d77dc23b56571596af463dcb2",
         "installTime": "2 minutes"
     }
     
