@@ -52,34 +52,6 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
-        "git_commit": "5aa9d0b377d936220e22c4cb6493772b72a58cba",
-        "installTime": "2 minutes"
-    },
-	{
-        "title": "Le Man's Data Science 101",
-        "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
-        "logo": "_images/notebook-1.png",
-        "enabled": true,
-        "category_label": [
-            "Notebook"
-        ],
-        "document": "",
-        "stack_id": "data_science_collection",
-        "de_catalog_id": "data_science_collection",
-        "type": "Notebook",
-        "categories": [
-            "Education"
-        ],
-        "tag": [],
-        "managed_by": ["Edge"],
-        "update_frequency": "Monthly",
-        "last_updated": "01/01/2021",
-        "license": "N/A",
-        "has_api": false,
-        "has_dataset": false,
-        "is_certified": true,
-        "has_support": true,
-        "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
         "git_commit": "460cd7f7dbea422e75352f3d6fb2aa1e8893ecb1",
         "installTime": "2 minutes"
     },
