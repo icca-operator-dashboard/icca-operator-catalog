@@ -52,7 +52,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
-        "git_commit": "da4c9045280797c9700ef7d05c49c308267a16f7",
+        "git_commit": "94cb4a5bba10222d64d90663dbf356052893d757",
         "installTime": "2 minutes"
     },
 	{
@@ -80,7 +80,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/lehman-challenge-tile.git",   
-        "git_commit": "dc04c87b0a8ff80457d5e967be8f5666dc5004a8",
+        "git_commit": "5a055a01290092050c907225a2dfae5ceb76bddd",
         "installTime": "2 minutes"
     }
     
