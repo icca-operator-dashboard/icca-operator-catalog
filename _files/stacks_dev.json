@@ -52,7 +52,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/data-science-collection-tile.git",
-        "git_commit": "a108e1c8c72957177c3786312bb0d52d6413387b",
+        "git_commit": "18ad93ebef56128ce1f08b47831bc468d3c622b6",
         "installTime": "2 minutes"
     },
 	{
@@ -64,8 +64,8 @@
             "Notebook"
         ],
         "document": "",
-        "stack_id": "lehman_challenge",
-        "de_catalog_id": "lehman_challenge",
+        "stack_id": "le_mans_challenge",
+        "de_catalog_id": "le_mans_challenge",
         "type": "Notebook",
         "categories": [
             "Education"
@@ -80,7 +80,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/lehman-challenge-tile.git",   
-        "git_commit": "62bfb005f51b885d77dc23b56571596af463dcb2",
+        "git_commit": "f44f30c35d5e5eecd0abe55d5ef01a198de9199e",
         "installTime": "2 minutes"
     }
     
