@@ -73,7 +73,7 @@
             "General"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classfication-notebooktile.git",
-        "git_commit": "d676057cbc1dfb903dca0e915d7b342c4b321b7d",
+        "git_commit": "5f0580709261ece761680cf2303f0107ec0a0dd6",
         "installTime": "2 minutes"
     },
     {
@@ -266,7 +266,7 @@
             "General"
         ],
         "git_url": "https://github.com/i-data-explorer/flower-classification-data-tile.git",
-        "git_commit": "a1a92555709cf20aebc07f04f80e9292df6c22f8",
+        "git_commit": "4841aea5f97aebdf33ec5a6f977bf4950662aad6",
         "installTime": "2 minutes"
     },
     {
