@@ -12,7 +12,7 @@
         "de_catalog_id": "My_first_notebook_notebook_1609928816737",
         "type": "Notebook",
         "categories": [
-            "Tutorial"
+            "Read Me"
         ],
         "tag": [],
         "managed_by": ["Edge"],
@@ -40,7 +40,7 @@
         "de_catalog_id": "data_science_collection",
         "type": "Notebook",
         "categories": [
-            "Education"
+            "Tutorial"
         ],
         "tag": [],
         "managed_by": ["Edge"],
@@ -68,7 +68,7 @@
         "de_catalog_id": "le_mans_challenge",
         "type": "Notebook",
         "categories": [
-            "Education"
+            "Challenge"
         ],
         "tag": [],
         "managed_by": ["Edge"],
