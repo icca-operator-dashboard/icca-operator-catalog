@@ -57,7 +57,7 @@
     },
 	{
         "title": "Le Mans Challenge",
-        "description": "Le Mans Challenge",
+        "description": "Le Mans Challenge challenge that will cover concepts like : Data manipulation techniques , Exploratory data analysis, Feature engineering, Model creation and evaluation using various classification models.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
