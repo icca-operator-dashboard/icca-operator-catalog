@@ -80,7 +80,7 @@
         "is_certified": true,
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/lehman-challenge-tile.git",   
-        "git_commit": "5a055a01290092050c907225a2dfae5ceb76bddd",
+        "git_commit": "4f6f5585b4cf42be82c74ce6b5c3557e832e044a",
         "installTime": "2 minutes"
     }
     
