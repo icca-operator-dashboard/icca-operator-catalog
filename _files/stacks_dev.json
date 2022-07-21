@@ -28,7 +28,7 @@
         "installTime": "2 minutes"
     },
     {
-        "title": "Science 101",
+        "title": "Data Science 101",
         "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
