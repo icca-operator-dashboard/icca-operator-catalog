@@ -28,7 +28,7 @@
         "installTime": "2 minutes"
     },
     {
-        "title": "Le Mans Data Science 101",
+        "title": "Science 101",
         "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
@@ -56,8 +56,8 @@
         "installTime": "2 minutes"
     },
 	{
-        "title": "Le Mans Challenge",
-        "description": "Le Mans Challenge challenge that will cover concepts like Data manipulation techniques , Exploratory data analysis, Feature engineering, Model creation and evaluation using various classification models.",
+        "title": "Data Science Challenge",
+        "description": "Data Science Challenge that will cover concepts like Data manipulation techniques , Exploratory data analysis, Feature engineering, Model creation and evaluation using various classification models.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
