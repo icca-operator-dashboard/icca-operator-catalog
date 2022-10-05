@@ -25,7 +25,8 @@
         "has_support": true,
         "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
         "git_commit": "290d1559a0cf437a71d97c5360146f8cd6d028d2",
-        "installTime": "2 minutes"
+        "installTime": "2 minutes",
+	"commands": ["cd", "ls"]
     },
     {
         "title": "Data Science 101",
