@@ -7,26 +7,13 @@
         "category_label": [
             "Notebook"
         ],
-        "document": "",
         "stack_id": "My_first_notebook_notebook_1609928816737",
-        "de_catalog_id": "My_first_notebook_notebook_1609928816737",
         "type": "Notebook",
         "categories": [
             "Read Me"
         ],
-        "tag": [],
-        "managed_by": ["Edge"],
-        "update_frequency": "Monthly",
-        "last_updated": "01/01/2021",
-        "license": "N/A",
-        "has_api": false,
-        "has_dataset": false,
-        "is_certified": true,
-        "has_support": true,
-        "git_url": "https://github.com/i-data-explorer/my-first-notebook-tile.git",
-        "git_commit": "290d1559a0cf437a71d97c5360146f8cd6d028d2",
         "installTime": "2 minutes",
-	"commands": ["cd", "ls"]
+	    "commands": ["cd", "ls"]
     },
     {
         "title": "Data Science 101",
