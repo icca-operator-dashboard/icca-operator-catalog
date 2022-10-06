@@ -1,1 +1,1 @@
-# parent repo for data-explorer
+# parent repo for icca operator catalog
