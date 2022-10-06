@@ -1,45 +1,9 @@
 {
-   "title":"Data Explorer Dashboard",
-   "owners":{
-      "8J2FDdi":[
-         "all"
-      ]
-   },
-   "editors":{
-      
-   },
-   "viewers":{
-      "all":[
-         "all"
-      ]
-   },
-   "copyright":{
-      
-   },
+   "title":"ICCA Operator Dashboard",
    "info":{
-      "headerTitle":"Data Explorer Dashboard",
-      "title":"Welcome to Data Explorer Dashboard",
-      "defaultVMDuration":"1",
-      "stacks":"_files/stacks.json",
+      "headerTitle":"ICCA Operator Dashboard",
+      "title":"Welcome to ICCA Operator Dashboard",
       "stacks_dev":"_files/stacks_dev.json",
-      "how_to":"_files/how_to.md",
-      "how_to_ami":"_files/how_to_ami.md",
-      "appLayout":"accordion",
-      "appTheme":"g90",
-      "footer":"__private/footer.md"
-   },
-   "documents":{
-   },
-   "attachments":[
-      {
-         "file":"_files/stacks.json",
-         "size":54351
-      },
-      {
-         "file":"_files/stacks_new.json",
-         "size":2589
-      }
-   ],
-   "version":"7",
-   "updated":"2020-09-28 09:17:36"
+      "how_to":"_files/how_to.md"
+   }
 }
