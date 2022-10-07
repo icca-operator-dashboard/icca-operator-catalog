@@ -17,7 +17,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	    "commands": ["cd", "ls"]
+	"commands": ["git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx", "helm dependency build", "helm install nginxchart . --namespace targetns"]
     },
     {
         "title": "Data Science 101",
