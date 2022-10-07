@@ -1,7 +1,7 @@
 [
     {
-        "title": "My first notebook",
-        "description": "Haven't used JupyterLab 3.0 before? \n\n Then this notebook can help. A succint user guide with instructions to manage notebooks in Jupyterlabs 3.0",
+        "title": "Assessment UI",
+        "description": "A Suite to install and initialize Assessment UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -20,8 +20,8 @@
 	"commands": ["git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx", "helm dependency build", "helm install nginxchart . --namespace targetns"]
     },
     {
-        "title": "Data Science 101",
-        "description": "A collection of Data Science Learning materials in the form of IPython Notebooks.",
+        "title": "Estimation UI",
+        "description": "A Suite to install and initialize Estimation UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -39,8 +39,8 @@
         "installTime": "2 minutes"
     },
 	{
-        "title": "Data Science Challenge",
-        "description": "Data Science Challenge that will cover concepts like Data manipulation techniques , Exploratory data analysis, Feature engineering, Model creation and evaluation using various classification models.",
+        "title": "Cores UI",
+        "description": "A Suite to install and initialize Cores UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -59,3 +59,4 @@
     }
     
 ]
+					
