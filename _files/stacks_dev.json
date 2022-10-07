@@ -17,7 +17,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	"commands": ["git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx", "helm dependency build", "helm install nginxchart . --namespace targetns"]
+	"commands": ["oc create namespace demo-app", "cd /tmp", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-etcd", "helm install nginxchart . --namespace demo-app"]
     },
     {
         "title": "Estimation UI",
