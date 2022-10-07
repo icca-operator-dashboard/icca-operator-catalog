@@ -1,7 +1,7 @@
 [
     {
         "title": "Cloud Transformation Advisor",
-        "description": "A Suite to install and initialize Assessment UI.",
+        "description": "A Suite to install and initialize cloud transformation advisor.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -21,7 +21,7 @@
     },
     {
         "title": "Digital Microservice Builder",
-        "description": "A Suite to install and initialize Estimation UI.",
+        "description": "A Suite to install and initialize digital microservice builder",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
@@ -40,7 +40,7 @@
     },
 	{
         "title": "Mainframe Application Mordenizer",
-        "description": "A Suite to install and initialize Cores UI.",
+        "description": "A Suite to install and initialize mainframe application mordenizer",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
