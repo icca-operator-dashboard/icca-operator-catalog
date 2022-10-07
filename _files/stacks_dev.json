@@ -1,18 +1,18 @@
 [
     {
-        "title": "Assessment UI",
+        "title": "Cloud Transformation Advisor",
         "description": "A Suite to install and initialize Assessment UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
-            "Notebook"
+            "Tool"
         ],
         "stack_id": "My_first_notebook_notebook_1609928816737",
         "type": "Notebook",
         "categories": [
             "Read Me"
         ],
-	"managed_by": ["Edge"],
+	"managed_by": ["ICCA"],
         "update_frequency": "Monthly",
         "last_updated": "01/01/2021",
         "license": "N/A",
@@ -20,38 +20,38 @@
 	"commands": ["oc create namespace demo-app", "cd /tmp", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-etcd", "helm install nginxchart . --namespace demo-app"]
     },
     {
-        "title": "Estimation UI",
+        "title": "Digital Microservice Builder",
         "description": "A Suite to install and initialize Estimation UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
-            "Notebook"
+            "Tool"
         ],
         "stack_id": "data_science_collection",
         "type": "Notebook",
         "categories": [
             "Tutorial"
         ],
-        "managed_by": ["Edge"],
+        "managed_by": ["ICCA"],
         "update_frequency": "Monthly",
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes"
     },
 	{
-        "title": "Cores UI",
+        "title": "Mainframe Application Mordenizer",
         "description": "A Suite to install and initialize Cores UI.",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
-            "Notebook"
+            "Tool"
         ],
         "stack_id": "le_mans_challenge",
         "type": "Notebook",
         "categories": [
             "Challenge"
         ],
-        "managed_by": ["Edge"],
+        "managed_by": ["ICCA"],
         "update_frequency": "Monthly",
         "last_updated": "01/01/2021",
         "license": "N/A",
