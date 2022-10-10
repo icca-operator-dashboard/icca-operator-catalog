@@ -17,7 +17,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	"commands": ["oc create namespace demo-nginx", "cd /tmp", "mkdir -p demo-nginx", "cd demo-nginx", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx", "helm install chart . --namespace demo-nginx"]
+	"commands": ["oc create namespace demo-nginx", "cd /tmp", "mkdir -p demo-nginx", "cd demo-nginx", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx","helm dependency build .", "helm install chart . --namespace demo-nginx"]
     },
     {
         "title": "Digital Microservice Builder",
