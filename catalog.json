@@ -5,6 +5,6 @@
       "title":"Welcome to ICCA Tools Catalog",
       "stacks_dev":"_files/stacks_dev.json",
       "how_to":"_files/how_to.md",
-      "useSvgLogo": "true"
+      "useSvgLogo": "false"
    }
 }
