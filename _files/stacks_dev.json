@@ -17,7 +17,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	"commands": ["oc create namespace demo-nginx", "cd /tmp", "mkdir -p demo-nginx", "cd demo-nginx", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx","helm dependency build .", "helm install chart . --namespace demo-nginx"]
+	"commands": ["oc create namespace demo-nginx", "cd /tmp", "mkdir -p demo-nginx", "cd demo-nginx", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx","helm dependency build .", "helm install nginx . --namespace demo-nginx"]
     },
     {
         "title": "Digital Microservice Builder",
@@ -37,7 +37,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	"commands": ["oc create namespace demo-nginx-etcd", "cd /tmp", "mkdir -p demo-nginx-etcd", "cd demo-nginx-etcd", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-etcd", "helm install chart . --namespace demo-nginx-etcd"]
+	"commands": ["oc create namespace demo-nginx-etcd", "cd /tmp", "mkdir -p demo-nginx-etcd", "cd demo-nginx-etcd", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-etcd", "helm install nginx-etcd . --namespace demo-nginx-etcd"]
     },
 	{
         "title": "Mainframe Application Mordenizer",
@@ -57,7 +57,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	"commands": ["oc create namespace demo-nginx-pvt", "cd /tmp", "mkdir -p demo-nginx-pvt", "cd demo-nginx-pvt", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-private","helm dependency build .", "helm install chart . --namespace demo-nginx-pvt"]
+	"commands": ["oc create namespace demo-nginx-pvt", "cd /tmp", "mkdir -p demo-nginx-pvt", "cd demo-nginx-pvt", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-private","helm dependency build .", "helm install demo-nginx-pvt . --namespace demo-nginx-pvt"]
     }
     
 ]
