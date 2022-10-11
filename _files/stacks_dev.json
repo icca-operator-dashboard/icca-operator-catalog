@@ -59,6 +59,27 @@
         "installTime": "2 minutes",
 	"commands": ["oc create namespace demo-nginx-pvt", "cd /tmp", "mkdir -p demo-nginx-pvt", "cd demo-nginx-pvt", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-private","helm dependency build .", "helm install chart . --namespace demo-nginx-pvt"]
     }
+	,
+	{
+        "title": "Mainframe Application Mordenizer Non-Entitled",
+        "description": "A Suite to install and initialize mainframe application mordenizer",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Tool"
+        ],
+        "stack_id": "le_mans_challenge",
+        "type": "Notebook",
+        "categories": [
+            "Challenge"
+        ],
+        "managed_by": ["ICCA"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "installTime": "2 minutes",
+	"commands": ["oc create namespace demo-nginx-non-ent", "cd /tmp", "mkdir -p demo-nginx-non-ent", "cd demo-nginx-non-ent", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-non-entitled","helm dependency build .", "helm install chart . --namespace demo-nginx-non-ent"]
+    }
     
 ]
 					
