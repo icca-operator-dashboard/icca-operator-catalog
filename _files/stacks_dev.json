@@ -56,7 +56,8 @@
         "update_frequency": "Monthly",
         "last_updated": "01/01/2021",
         "license": "N/A",
-        "installTime": "2 minutes"
+        "installTime": "2 minutes",
+	"commands": ["oc create namespace demo-nginx-pvt", "cd /tmp", "mkdir -p demo-nginx-pvt", "cd demo-nginx-pvt", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-private","helm dependency build .", "helm install chart . --namespace demo-nginx-pvt"]
     }
     
 ]
