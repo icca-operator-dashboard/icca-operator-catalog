@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Cloud Transformation Advisor",
+        "description": "A Suite to install and initialize cloud transformation advisor.",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Tool"
+        ],
+        "stack_id": "My_first_notebook_notebook_1609928816737",
+        "type": "Notebook",
+        "categories": [
+            "Read Me"
+        ],
+	      "managed_by": ["ICCA"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "installTime": "2 minutes",
+	      "commands": ["cd","ls"]
+    },
+    {
+        "title": "Digital Microservice Builder",
+        "description": "A Suite to install and initialize digital microservice builder",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Tool"
+        ],
+        "stack_id": "data_science_collection",
+        "type": "Notebook",
+        "categories": [
+            "Tutorial"
+        ],
+        "managed_by": ["ICCA"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "installTime": "2 minutes",
+	      "commands": ["cd","ls"]
+    },
+	{
+        "title": "Mainframe Application Mordenizer",
+        "description": "A Suite to install and initialize mainframe application mordenizer",
+        "logo": "_images/notebook-1.png",
+        "enabled": true,
+        "category_label": [
+            "Tool"
+        ],
+        "stack_id": "le_mans_challenge",
+        "type": "Notebook",
+        "categories": [
+            "Challenge"
+        ],
+        "managed_by": ["ICCA"],
+        "update_frequency": "Monthly",
+        "last_updated": "01/01/2021",
+        "license": "N/A",
+        "installTime": "2 minutes"
+    }
+    
+]
