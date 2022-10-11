@@ -12,12 +12,12 @@
         "categories": [
             "Read Me"
         ],
-	      "managed_by": ["ICCA"],
+	"managed_by": ["ICCA"],
         "update_frequency": "Monthly",
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	      "commands": ["cd","ls"]
+	"commands": ["oc create -f icca.yml"]
     },
     {
         "title": "Digital Microservice Builder",
@@ -37,7 +37,7 @@
         "last_updated": "01/01/2021",
         "license": "N/A",
         "installTime": "2 minutes",
-	      "commands": ["cd","ls"]
+	"commands": ["oc create -f iccatool.yml"]
     },
 	{
         "title": "Mainframe Application Mordenizer",
