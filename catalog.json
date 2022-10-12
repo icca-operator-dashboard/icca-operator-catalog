@@ -8,6 +8,7 @@
       "how_to":"_files/how_to.md",
       "useSvgLogo": "true",
       "installProgressText": "Installation has been initiated",
-      "userIdentifyKey": "icca-user-identification"
+      "userIdentifyKey": "icca-user-identification",
+      "tileKeyRequiredText": "Entitlement key is required to proceed with installation"
    }
 }
