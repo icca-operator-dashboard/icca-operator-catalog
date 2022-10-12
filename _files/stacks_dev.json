@@ -40,7 +40,7 @@
 	"commands": ["oc create namespace demo-nginx-etcd", "cd /tmp", "mkdir -p demo-nginx-etcd", "cd demo-nginx-etcd", "git clone https://github.com/rhm-samples/sample-helm.git", "cd sample-helm/charts/nginx-etcd", "helm install chart . --namespace demo-nginx-etcd"]
     },
 	{
-        "title": "Mainframe Application Mordenizer",
+        "title": "Mainframe Application Modernizer",
         "description": "A Suite to install and initialize mainframe application mordenizer",
         "logo": "_images/notebook-1.png",
         "enabled": true,
@@ -61,7 +61,7 @@
     }
 	,
 	{
-        "title": "Mainframe Application Mordenizer Non-Entitled",
+        "title": "Mainframe Application Modernizer Non-Entitled",
         "description": "A Suite to install and initialize mainframe application mordenizer",
         "logo": "_images/notebook-1.png",
         "enabled": true,
