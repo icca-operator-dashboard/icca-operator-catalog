@@ -1,0 +1,9 @@
+apiVersion: icca.ibm.com/v1alpha1
+kind: ICCATool
+metadata:
+  name: icca-tool-example
+  namespace: default
+spec:
+  helmChartUrl: https://github.com/rhm-samples/sample-helm/tree/main/charts/nginx-etcd
+  name: nginx-etcd
+  installNamespace: nginx-etcd-test
