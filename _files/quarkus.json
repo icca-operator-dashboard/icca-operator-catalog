@@ -40,7 +40,7 @@
 	"commands": ["oc create -f /app/client/build/icca-operator-catalog/_files/iccatool.yml"]
     },
 	{
-        "title": "Mainframe Application Mordenizer Nginx Non Entitled",
+        "title": "Mainframe Application Modernizer Nginx Non Entitled",
         "description": "A Suite to install and initialize mainframe application mordenizer",
         "logo": "_images/notebook-1.png",
         "enabled": true,
@@ -61,14 +61,14 @@
     }
     ,
 	{
-        "title": "Mainframe Application Mordenizer Private Nginx",
+        "title": "Mainframe Application Modernizer Private Nginx",
         "description": "A Suite to install and initialize mainframe application mordenizer",
         "logo": "_images/notebook-1.png",
         "enabled": true,
         "category_label": [
             "Tool"
         ],
-        "stack_id": "mainframe_pplication_mordenizer_private_nginx",
+        "stack_id": "mainframe_pplication_modernizer_private_nginx",
         "type": "Notebook",
         "categories": [
             "Challenge"
