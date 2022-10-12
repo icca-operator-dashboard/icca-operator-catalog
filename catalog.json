@@ -6,6 +6,8 @@
       "stacks_dev":"_files/stacks_dev.json",
       "quarkus": "_files/quarkus.json",
       "how_to":"_files/how_to.md",
-      "useSvgLogo": "true"
+      "useSvgLogo": "true",
+      "installProgressText": "Installation has been initiated - 1",
+      "userIdentifyKey": "icca-user-identification"
    }
 }
