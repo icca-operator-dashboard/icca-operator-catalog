@@ -7,7 +7,7 @@
       "quarkus": "_files/quarkus.json",
       "how_to":"_files/how_to.md",
       "useSvgLogo": "true",
-      "installProgressText": "Installation has been initiated - 1",
+      "installProgressText": "Installation has been initiated",
       "userIdentifyKey": "icca-user-identification"
    }
 }
