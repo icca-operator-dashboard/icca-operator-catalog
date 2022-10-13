@@ -1,5 +1,5 @@
 apiVersion: icca.ibm.com/v1alpha1
-kind: ICCATool
+kind: ICCA
 metadata:
   name: icca-tool-example
   namespace: default
